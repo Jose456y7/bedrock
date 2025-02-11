@@ -5055,6 +5055,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-02-11 03:49:37 +0000"
+    },
+    "done": true
+  },
   "diamond_recycling:about": {
     "criteria": {
       "requirement": "2025-02-11 03:16:29 +0000"
