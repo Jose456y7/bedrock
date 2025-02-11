@@ -14,14 +14,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-02-07 20:11:33 +0000",
-      "minecraft:desert": "2025-02-04 19:09:30 +0000",
       "minecraft:forest": "2025-02-03 01:05:53 +0000",
       "minecraft:mangrove_swamp": "2025-02-05 21:44:19 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-11 22:29:34 +0000",
+      "minecraft:lush_caves": "2025-02-03 04:04:01 +0000",
+      "minecraft:dripstone_caves": "2025-02-03 03:29:12 +0000",
+      "minecraft:desert": "2025-02-04 19:09:30 +0000",
       "minecraft:windswept_forest": "2025-02-03 01:22:08 +0000",
       "minecraft:cherry_grove": "2025-02-06 20:11:26 +0000",
       "minecraft:grove": "2025-02-03 02:08:45 +0000",
-      "minecraft:lush_caves": "2025-02-03 04:04:01 +0000",
-      "minecraft:dripstone_caves": "2025-02-03 03:29:12 +0000",
       "minecraft:bamboo_jungle": "2025-02-04 21:34:10 +0000",
       "minecraft:plains": "2025-02-03 01:02:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-03 18:52:59 +0000"

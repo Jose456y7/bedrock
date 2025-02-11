@@ -94,3 +94,6 @@
 [22:26:14] [Server thread/WARN]: matiasauto123 moved too quickly! -3264.0,-9.700000000000003,-17.670790678694015
 [22:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3050ms or 61 ticks behind
 [22:29:35] [Server thread/WARN]: matiasauto123 moved too quickly! -2064.0,36.3,-41.92436749765229
+[22:45:57] [Server thread/INFO]: matiasauto123 issued server command: /gamemode spectator
+[22:46:26] [Server thread/INFO]: matiasauto123 issued server command: /tp @s 1023 61.5 13
+[22:46:52] [Server thread/INFO]: matiasauto123 issued server command: /gamemode survival
