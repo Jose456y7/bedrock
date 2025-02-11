@@ -88,3 +88,9 @@
 [22:13:16] [User Authenticator #0/INFO]: UUID of player matiasauto123 is 31cd2b73-aba4-34f3-a51d-7166b446d443
 [22:13:18] [Server thread/INFO]: matiasauto123 joined the game
 [22:13:18] [Server thread/INFO]: matiasauto123[/172.23.48.113:55244] logged in with entity id 216 at ([world]-1.6423724544367986, 61.0, 12.536291829986443)
+[22:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8214ms or 164 ticks behind
+[22:22:59] [Server thread/WARN]: matiasauto123 moved too quickly! -3264.0,-9.700000000000003,-17.294370469725994
+[22:24:27] [Server thread/WARN]: matiasauto123 moved too quickly! -3264.0,-9.700000000000003,-17.861844933427108
+[22:26:14] [Server thread/WARN]: matiasauto123 moved too quickly! -3264.0,-9.700000000000003,-17.670790678694015
+[22:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3050ms or 61 ticks behind
+[22:29:35] [Server thread/WARN]: matiasauto123 moved too quickly! -2064.0,36.3,-41.92436749765229
