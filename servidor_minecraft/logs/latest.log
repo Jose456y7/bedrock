@@ -110,3 +110,6 @@ timber.capitate<--[HERE]
 /timber<--[HERE]
 [03:18:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
 user menu<--[HERE]
+[03:35:46] [User Authenticator #1/INFO]: UUID of player matiasauto123 is 31cd2b73-aba4-34f3-a51d-7166b446d443
+[03:35:47] [Server thread/INFO]: matiasauto123 joined the game
+[03:35:47] [Server thread/INFO]: matiasauto123[/172.23.48.113:62513] logged in with entity id 2683 at ([world]-3.699999988079071, 62.0, -10.300000011920929)
