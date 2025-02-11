@@ -5037,12 +5037,6 @@
     },
     "done": true
   },
-  "global:notblue": {
-    "criteria": {
-      "requirement": "2025-02-11 03:16:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-11 03:29:43 +0000"
@@ -5055,27 +5049,27 @@
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-02-11 03:49:37 +0000"
-    },
-    "done": true
-  },
-  "diamond_recycling:about": {
-    "criteria": {
-      "requirement": "2025-02-11 03:16:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-02-11 03:29:43 +0000"
     },
     "done": true
   },
-  "global:root": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "requirement": "2025-02-11 03:16:29 +0000"
+      "summoned": "2025-02-11 03:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-02-11 04:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-02-11 04:29:56 +0000"
     },
     "done": true
   },

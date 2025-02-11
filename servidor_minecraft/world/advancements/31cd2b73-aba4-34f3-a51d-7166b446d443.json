@@ -5245,37 +5245,6 @@
     },
     "done": true
   },
-  "diamond_recycling:recipes/misc/diamond_from_recycling_armor": {
-    "criteria": {
-      "has_the_recipe": "2025-02-07 20:19:50 +0000",
-      "has_diamond": "2025-02-07 20:19:50 +0000"
-    },
-    "done": true
-  },
-  "diamond_recycling:recipes/misc/diamond_from_recycling_tools": {
-    "criteria": {
-      "has_diamond": "2025-02-07 20:19:50 +0000"
-    },
-    "done": true
-  },
-  "global:notblue": {
-    "criteria": {
-      "requirement": "2025-02-07 20:19:50 +0000"
-    },
-    "done": true
-  },
-  "diamond_recycling:about": {
-    "criteria": {
-      "requirement": "2025-02-07 20:19:50 +0000"
-    },
-    "done": true
-  },
-  "global:root": {
-    "criteria": {
-      "requirement": "2025-02-07 20:19:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-02-07 21:15:11 +0000"
@@ -5297,6 +5266,18 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-02-11 03:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-02-11 04:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-02-11 04:29:56 +0000"
     },
     "done": true
   },
