@@ -7,16 +7,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-02-12 02:55:34 +0000",
       "minecraft:beach": "2025-02-12 02:11:12 +0000",
       "minecraft:forest": "2025-02-03 01:05:53 +0000",
       "minecraft:mangrove_swamp": "2025-02-06 02:01:27 +0000",
+      "minecraft:river": "2025-02-12 02:49:30 +0000",
       "minecraft:lukewarm_ocean": "2025-02-12 02:11:44 +0000",
       "minecraft:lush_caves": "2025-02-03 04:04:00 +0000",
       "minecraft:dripstone_caves": "2025-02-03 03:29:12 +0000",
+      "minecraft:eroded_badlands": "2025-02-12 02:53:57 +0000",
       "minecraft:desert": "2025-02-04 18:28:50 +0000",
       "minecraft:windswept_forest": "2025-02-03 01:22:09 +0000",
       "minecraft:cherry_grove": "2025-02-06 19:55:23 +0000",
       "minecraft:grove": "2025-02-03 02:08:46 +0000",
+      "minecraft:savanna": "2025-02-12 02:51:09 +0000",
       "minecraft:bamboo_jungle": "2025-02-04 21:34:33 +0000",
       "minecraft:plains": "2025-02-03 01:04:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-03 20:24:54 +0000"
@@ -5054,6 +5058,18 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-02-11 04:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-12 02:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-12 02:37:10 +0000"
     },
     "done": true
   },
