@@ -18,10 +18,12 @@
       "minecraft:eroded_badlands": "2025-02-12 02:53:57 +0000",
       "minecraft:desert": "2025-02-04 18:28:50 +0000",
       "minecraft:windswept_forest": "2025-02-03 01:22:09 +0000",
+      "minecraft:deep_dark": "2025-02-12 03:04:00 +0000",
       "minecraft:cherry_grove": "2025-02-06 19:55:23 +0000",
       "minecraft:grove": "2025-02-03 02:08:46 +0000",
       "minecraft:savanna": "2025-02-12 02:51:09 +0000",
       "minecraft:bamboo_jungle": "2025-02-04 21:34:33 +0000",
+      "minecraft:wooded_badlands": "2025-02-12 02:59:01 +0000",
       "minecraft:plains": "2025-02-03 01:04:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-03 20:24:54 +0000"
     },
@@ -942,6 +944,7 @@
       "minecraft:zombified_piglin": "2025-02-06 02:10:43 +0000",
       "minecraft:witch": "2025-02-03 20:27:00 +0000",
       "minecraft:wither_skeleton": "2025-02-06 17:52:24 +0000",
+      "minecraft:husk": "2025-02-12 02:56:46 +0000",
       "minecraft:ghast": "2025-02-06 05:05:59 +0000",
       "minecraft:hoglin": "2025-02-06 03:48:29 +0000",
       "minecraft:piglin": "2025-02-06 02:25:02 +0000",
@@ -5061,9 +5064,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-02-12 03:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-02-12 02:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-12 03:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-12 03:05:59 +0000"
     },
     "done": true
   },

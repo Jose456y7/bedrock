@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-02-12 02:54:46 +0000",
       "minecraft:savanna_plateau": "2025-02-07 20:11:33 +0000",
       "minecraft:beach": "2025-02-11 23:34:06 +0000",
       "minecraft:forest": "2025-02-03 01:05:53 +0000",
@@ -19,10 +20,12 @@
       "minecraft:eroded_badlands": "2025-02-12 02:53:44 +0000",
       "minecraft:desert": "2025-02-04 19:09:30 +0000",
       "minecraft:windswept_forest": "2025-02-03 01:22:08 +0000",
+      "minecraft:deep_dark": "2025-02-12 03:04:18 +0000",
       "minecraft:cherry_grove": "2025-02-06 20:11:26 +0000",
       "minecraft:grove": "2025-02-03 02:08:45 +0000",
       "minecraft:savanna": "2025-02-12 02:51:07 +0000",
       "minecraft:bamboo_jungle": "2025-02-04 21:34:10 +0000",
+      "minecraft:wooded_badlands": "2025-02-12 02:58:57 +0000",
       "minecraft:plains": "2025-02-03 01:02:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-03 18:52:59 +0000"
     },
@@ -1019,6 +1022,7 @@
       "minecraft:shulker": "2025-02-06 05:12:49 +0000",
       "minecraft:piglin": "2025-02-06 02:02:58 +0000",
       "minecraft:enderman": "2025-02-03 03:16:06 +0000",
+      "minecraft:silverfish": "2025-02-12 03:08:46 +0000",
       "minecraft:vex": "2025-02-04 21:38:02 +0000",
       "minecraft:zombie": "2025-02-03 02:33:43 +0000",
       "minecraft:drowned": "2025-02-03 21:16:09 +0000",
@@ -5275,6 +5279,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-12 03:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-12 03:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-12 02:52:47 +0000"
@@ -5284,6 +5300,30 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-02-12 02:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-02-12 03:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-12 03:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-12 03:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-12 03:05:39 +0000"
     },
     "done": true
   },
