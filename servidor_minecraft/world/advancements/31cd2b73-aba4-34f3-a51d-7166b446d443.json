@@ -5551,5 +5551,17 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-13 00:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-02-13 01:01:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
