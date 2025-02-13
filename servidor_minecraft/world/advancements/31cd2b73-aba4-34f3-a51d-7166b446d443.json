@@ -5629,5 +5629,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-13 22:11:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
