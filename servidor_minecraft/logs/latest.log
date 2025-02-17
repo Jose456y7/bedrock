@@ -88,3 +88,11 @@
 [03:21:03] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [03:21:04] [Craft Scheduler Thread - 6 - Timber/INFO]: [Timber] There is a new update available.
 [03:21:04] [Craft Scheduler Thread - 6 - Timber/INFO]: [Timber] The update is available at the link: https://www.spigotmc.org/resources/113160/
+[03:56:48] [User Authenticator #0/INFO]: UUID of player matiasauto123 is 31cd2b73-aba4-34f3-a51d-7166b446d443
+[03:56:54] [Server thread/INFO]: matiasauto123 joined the game
+[03:56:55] [Server thread/INFO]: matiasauto123[/172.23.48.113:63582] logged in with entity id 273 at ([world]2362.7671674551643, 63.0, -4304.987938666378)
+[03:58:12] [Server thread/INFO]: matiasauto123 lost connection: Disconnected
+[03:58:12] [Server thread/INFO]: matiasauto123 left the game
+[03:58:24] [User Authenticator #1/INFO]: UUID of player matiasauto123 is 31cd2b73-aba4-34f3-a51d-7166b446d443
+[03:58:25] [Server thread/INFO]: matiasauto123 joined the game
+[03:58:25] [Server thread/INFO]: matiasauto123[/172.23.64.33:50153] logged in with entity id 1006 at ([world]2362.491501007167, 63.0, -4305.19457478901)
