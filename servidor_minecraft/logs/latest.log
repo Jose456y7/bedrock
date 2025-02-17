@@ -96,3 +96,7 @@
 [03:58:24] [User Authenticator #1/INFO]: UUID of player matiasauto123 is 31cd2b73-aba4-34f3-a51d-7166b446d443
 [03:58:25] [Server thread/INFO]: matiasauto123 joined the game
 [03:58:25] [Server thread/INFO]: matiasauto123[/172.23.64.33:50153] logged in with entity id 1006 at ([world]2362.491501007167, 63.0, -4305.19457478901)
+[04:21:02] [Server thread/INFO]: matiasauto123 issued server command: /gamemode spectator
+[04:21:06] [Server thread/INFO]: matiasauto123 issued server command: /gamemode survival
+[04:21:11] [Server thread/INFO]: matiasauto123 issued server command: /gamemode spectator
+[04:21:13] [Server thread/INFO]: matiasauto123 issued server command: /gamemode survival
