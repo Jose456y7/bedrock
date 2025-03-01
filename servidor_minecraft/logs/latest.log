@@ -99,3 +99,5 @@
 [03:03:54] [Server thread/INFO]: matiasauto123 joined the game
 [03:03:54] [Server thread/INFO]: matiasauto123[/172.23.64.33:56554] logged in with entity id 519 at ([world]2825.5197505071137, 80.0, -5258.131783722637)
 [03:09:05] [Server thread/WARN]: Thexperson2 moved wrongly!
+[03:32:47] [Server thread/INFO]: Thexperson2 has made the advancement [Voluntary Exile]
+[03:33:46] [Server thread/INFO]: Villager Villager['Villager'/265, uuid='31b2997f-cc2b-4478-944d-029c98ee17db', l='ServerLevel[world]', x=2386.40, y=64.00, z=-4283.41, cpos=[149, -268], tl=450930, v=true] died, message: 'Villager was slain by Vindicator'
