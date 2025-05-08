@@ -43,6 +43,7 @@
       "bread": "2025-05-02 00:37:38 +0000",
       "golden_apple": "2025-05-02 03:44:43 +0000",
       "cookie": "2025-05-01 23:47:58 +0000",
+      "enchanted_golden_apple": "2025-05-08 02:10:14 +0000",
       "cooked_beef": "2025-05-02 04:10:44 +0000",
       "chorus_fruit": "2025-05-03 01:50:34 +0000",
       "porkchop": "2025-05-04 01:50:23 +0000",
@@ -4155,6 +4156,24 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-07 03:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-08 02:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-08 02:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-08 02:14:01 +0000"
     },
     "done": true
   },
