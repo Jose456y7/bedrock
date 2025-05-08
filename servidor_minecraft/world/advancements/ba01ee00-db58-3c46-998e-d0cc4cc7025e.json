@@ -4811,15 +4811,9 @@
     },
     "done": false
   },
-  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+  "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
-      "has_needed_dye": "2025-05-07 03:36:38 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:end/find_end_castle": {
-    "criteria": {
-      "end_castle": "2025-05-07 03:21:24 +0000"
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-05-07 02:16:25 +0000"
     },
     "done": true
   },
@@ -4829,9 +4823,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
-      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-05-07 02:16:25 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-05-07 02:16:41 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:end/find_end_castle": {
+    "criteria": {
+      "end_castle": "2025-05-07 03:21:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-07 03:36:38 +0000"
     },
     "done": true
   },
@@ -4850,12 +4856,6 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-05-07 03:36:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-05-07 02:16:41 +0000"
     },
     "done": true
   },
