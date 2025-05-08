@@ -179,3 +179,21 @@
 [02:33:34] [Server thread/INFO]: Created new backpack backup file for GingerCuban with unique ID travelersbackpack.bee_08.05.2025-02.33.34.dat
 [02:33:34] [Server thread/INFO]: Your backpack has been placed at X: -1415 Y: 127 Z: -787
 [02:33:43] [Server thread/WARN]: GingerCuban moved too quickly! -9.578604208125626,-1.176759275064228,-3.0355639375550254
+[02:34:48] [Server thread/INFO]: [Not Secure] <Matiasauto> -401 71 962
+[02:35:30] [Server thread/INFO]: [Not Secure] <Matiasauto> jarvis 71 + 126
+[02:35:33] [Server thread/INFO]: [Not Secure] <Matiasauto> 202
+[02:36:14] [Server thread/WARN]: Thexperson2 moved too quickly! -3.0562662795615587,-11.528473365069601,12.712566678988281
+[02:36:14] [Server thread/WARN]: Matiasauto moved too quickly! 0.5835822767785999,-10.0,-1.9553668922571887
+[02:36:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7034ms or 140 ticks behind
+[02:36:17] [Server thread/INFO]: Thexperson2 lost connection: Disconnected
+[02:36:17] [Server thread/INFO]: Thexperson2 left the game
+[02:37:26] [Server thread/INFO]: Thexperson2[/192.168.195.124:59849] logged in with entity id 29550 at (14.347943389427764, -23.40173849749327, 204.3459614105853)
+[02:37:26] [Server thread/INFO]: Loading config from file...
+[02:37:26] [Server thread/INFO]: Thexperson2 joined the game
+[02:37:33] [Server thread/INFO]: Thexperson2 fell out of the world
+[02:37:33] [Server thread/INFO]: Created new backpack backup file for Thexperson2 with unique ID travelersbackpack.creeper_08.05.2025-02.37.33.dat
+[02:37:33] [Server thread/INFO]: Created new backpack backup file for Thexperson2 with unique ID travelersbackpack.creeper_08.05.2025-02.37.33.dat
+[02:37:33] [Server thread/INFO]: There's no space for backpack. Dropping backpack item at X: 50 Y: -113.7129144517081 Z: 187
+[02:38:53] [Server thread/INFO]: Thexperson2 lost connection: Disconnected
+[02:38:53] [Server thread/INFO]: Thexperson2 left the game
+[02:40:11] [Server thread/WARN]: GingerCuban moved too quickly! 9.609743568898239,-4.383113232136594,14.281304653817642
