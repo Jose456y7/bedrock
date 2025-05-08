@@ -1,104 +1,142 @@
-[03:01:29] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[03:01:29] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[03:01:30] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:01:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[03:01:33] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
- - Geyser-Spigot (2.6.1-SNAPSHOT), InstantRestock (2.4.6), SkinsRestorer (15.5.2), Timber (1.5.8), ViaBackwards (5.2.1), ViaVersion (5.2.1), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[03:01:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:01:49] [ServerMain/INFO]: Loaded 1290 recipes
-[03:01:50] [ServerMain/INFO]: Loaded 1399 advancements
-[03:01:51] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[03:01:51] [Server thread/INFO]: Loading properties
-[03:01:51] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[03:01:52] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[03:01:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:01:52] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:01:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[03:01:54] [Server thread/INFO]: Default game type: SURVIVAL
-[03:01:54] [Server thread/INFO]: Generating keypair
-[03:01:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:01:55] [Server thread/INFO]: Using epoll channel type
-[03:01:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:01:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:01:58] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
-[03:01:58] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
-[03:02:03] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[03:02:04] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[03:02:06] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[03:02:06] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[03:02:08] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[03:02:12] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[03:02:12] [Server thread/INFO]: [floodgate] Took 3,561ms to boot Floodgate
-[03:02:12] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1
-[03:02:12] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
-[03:02:12] [Server thread/INFO]: [Timber] Loading server plugin Timber v1.5.8
-[03:02:12] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.1-SNAPSHOT
-[03:02:16] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[03:02:16] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[03:02:16] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.4.6
-[03:02:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:02:16] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
-[03:02:19] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[03:02:20] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[03:02:22] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:02:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:02:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:02:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:02:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:02:22] [Server thread/INFO]: Preparing level "world"
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.5.3) is available! Downloading update...
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:02:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
-[03:02:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 1541ms
-[03:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
-[03:02:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
-[03:02:28] [Server thread/INFO]: Time elapsed: 4982 ms
-[03:02:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:02:29] [Server thread/INFO]: Time elapsed: 518 ms
-[03:02:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:02:29] [Server thread/INFO]: Time elapsed: 277 ms
-[03:02:29] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
-[03:02:29] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[03:02:29] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[03:02:32] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
-[03:02:32] [Server thread/INFO]: [Timber] Enabling Timber v1.5.8
-[03:02:32] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.1-SNAPSHOT
-[03:02:33] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.4.6
-[03:02:37] [Server thread/INFO]: [spark] Starting background profiler...
-[03:02:38] [Folia Async Scheduler Thread #3/INFO]: [InfiniteVillagerTrading] A new update is available!
-[03:02:40] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[03:02:40] [Server thread/INFO]: [Geyser-Spigot] 
-[03:02:40] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.1-b762 (git-master-d5b5712)
-[03:02:40] [Server thread/INFO]: [Geyser-Spigot] 
-[03:02:40] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[03:02:58] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[03:02:58] [Server thread/INFO]: [Geyser-Spigot] Done (18.047s)! Run /geyser help for help!
-[03:02:59] [Server thread/INFO]: Done preparing level "world" (36.728s)
-[03:02:59] [Server thread/INFO]: Running delayed init tasks
-[03:02:59] [Server thread/INFO]: Done (92.839s)! For help, type "help"
-[03:02:59] [Server thread/INFO]: Timings Reset
-[03:02:59] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[03:02:59] [Craft Scheduler Thread - 6 - Timber/INFO]: [Timber] There is a new update available.
-[03:02:59] [Craft Scheduler Thread - 6 - Timber/INFO]: [Timber] The update is available at the link: https://www.spigotmc.org/resources/113160/
-[03:03:45] [User Authenticator #0/INFO]: UUID of player Thexperson2 is ba01ee00-db58-3c46-998e-d0cc4cc7025e
-[03:03:47] [Server thread/INFO]: Thexperson2 joined the game
-[03:03:47] [Server thread/INFO]: Thexperson2[/172.23.35.226:57105] logged in with entity id 232 at ([world]2444.2204306826993, 83.3444825971738, -4371.329267306261)
-[03:03:52] [User Authenticator #0/INFO]: UUID of player matiasauto123 is 31cd2b73-aba4-34f3-a51d-7166b446d443
-[03:03:54] [Server thread/INFO]: matiasauto123 joined the game
-[03:03:54] [Server thread/INFO]: matiasauto123[/172.23.64.33:56554] logged in with entity id 519 at ([world]2825.5197505071137, 80.0, -5258.131783722637)
-[03:09:05] [Server thread/WARN]: Thexperson2 moved wrongly!
-[03:32:47] [Server thread/INFO]: Thexperson2 has made the advancement [Voluntary Exile]
-[03:33:46] [Server thread/INFO]: Villager Villager['Villager'/265, uuid='31b2997f-cc2b-4478-944d-029c98ee17db', l='ServerLevel[world]', x=2386.40, y=64.00, z=-4283.41, cpos=[149, -268], tl=450930, v=true] died, message: 'Villager was slain by Vindicator'
-[03:40:18] [Server thread/INFO]: Thexperson2 has completed the challenge [Hero of the Village]
+[01:27:08] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[01:27:09] [main/WARN]: Warnings were found!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[01:27:09] [main/INFO]: Loading 70 mods:
+	- another_furniture 4.0.0
+	- architectury 13.0.8
+	- cardinal-components 6.1.2
+	   |-- cardinal-components-base 6.1.2
+	   |-- cardinal-components-block 6.1.2
+	   |-- cardinal-components-chunk 6.1.2
+	   |-- cardinal-components-entity 6.1.2
+	   |-- cardinal-components-item 6.1.2
+	   |-- cardinal-components-level 6.1.2
+	   |-- cardinal-components-scoreboard 6.1.2
+	   \-- cardinal-components-world 6.1.2
+	- carryon 2.2.2
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- collective 8.3
+	- coroutil 1.21.1-1.3.8
+	   \-- forgeconfigapiport 21.1.3
+	        |-- com_electronwill_night-config_core 3.8.0
+	        \-- com_electronwill_night-config_toml 3.8.0
+	- creativecore 2.13.1
+	   \-- net_neoforged_bus 7.2.0
+	- fabric-api 0.115.6+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.70+b559734419
+	   |-- fabric-biome-api-v1 13.0.31+d527f9fd19
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
+	   |-- fabric-block-view-api-v2 1.0.11+ebb2264e19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.18+b559734419
+	   |-- fabric-convention-tags-v1 2.1.4+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.11.0+a406e79519
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.4.3+a15b7ead19
+	   |-- fabric-data-generation-api-v1 20.2.28+16c4ae2519
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
+	   |-- fabric-entity-events-v1 1.7.0+2122d82819
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.1.1+d5debaed19
+	   |-- fabric-item-group-api-v1 4.1.7+def88e3a19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.5.0+01d9a51c19
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.14+248df81c19
+	   |-- fabric-registry-sync-v0 5.2.0+34f5d91419
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.49+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.71+df3654b319
+	   |-- fabric-rendering-v1 5.0.5+df16efd019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.88+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.2+c24bd99419
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- lithostitched 1.4.2
+	- minecraft 1.21.1
+	- mr_dungeons_andtaverns 1-v4.4.4
+	- mr_dungeons_andtavernsstrongholdoverhaul 1-v2.1.f
+	- tectonic 2.4.3
+	- trade_cycling 1.21.1-1.0.17
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
+	   \-- fabric-screen-api-v1 2.0.24+b55973446a
+	- travelersbackpack 10.1.19
+	- treeharvester 9.1
+	- villagernames 8.2
+[01:27:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/bedrock/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:27:10] [main/INFO]: Compatibility level set to JAVA_21
+[01:27:10] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:27:11] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:27:12] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:27:34] [main/INFO]: Loading Collective version 8.3.
+[01:27:34] [main/INFO]: fabric loader environment detected
+[01:27:35] [main/ERROR]: No data fixer registered for 
+[01:27:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[01:27:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[01:27:36] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[01:27:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[01:27:36] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[01:27:37] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:27:42] [main/INFO]: Loaded 1659 recipes
+[01:27:43] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[01:27:43] [main/INFO]: Loaded 1808 advancements
+[01:27:46] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 4.144 ms
+[01:27:46] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:27:46] [Server thread/INFO]: Loading properties
+[01:27:46] [Server thread/INFO]: Default game type: SURVIVAL
+[01:27:46] [Server thread/INFO]: Generating keypair
+[01:27:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:27:47] [Server thread/INFO]: Using epoll channel type
+[01:27:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:27:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:27:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:27:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:27:47] [Server thread/INFO]: Preparing level "world"
+[01:28:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:22] [Server thread/INFO]: Time elapsed: 8827 ms
+[01:28:22] [Server thread/INFO]: Done (35.385s)! For help, type "help"
+[01:28:30] [Server thread/INFO]: Matiasauto[/192.168.195.142:57783] logged in with entity id 12 at (-1438.098859495112, 126.0, -775.7506108200859)
+[01:28:30] [Server thread/INFO]: Loading config from file...
+[01:28:31] [Server thread/INFO]: Matiasauto joined the game
