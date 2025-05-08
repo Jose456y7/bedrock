@@ -203,3 +203,35 @@
 [02:49:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2618ms or 52 ticks behind
 [02:52:42] [Server thread/INFO]: [Not Secure] <Matiasauto> -3208 200 7672
 [02:54:21] [Server thread/WARN]: GingerCuban moved too quickly! -7.080395550850199,-1.0,-7.811526363743724
+[02:57:32] [Server thread/INFO]: Villager class_1646['Tara'/16944, l='ServerLevel[world]', x=-1386.50, y=127.94, z=-733.30] died, message: 'Tara was slain by Zombie'
+[02:57:32] [Server thread/INFO]: Named entity class_1646['Tara'/16944, l='ServerLevel[world]', x=-1386.50, y=127.94, z=-733.30] died: Tara was slain by Zombie
+[02:57:45] [Server thread/INFO]: Villager class_1646['Inell'/16945, l='ServerLevel[world]', x=-1386.50, y=127.94, z=-733.30] died, message: 'Inell was slain by Zombie'
+[02:57:45] [Server thread/INFO]: Named entity class_1646['Inell'/16945, l='ServerLevel[world]', x=-1386.50, y=127.94, z=-733.30] died: Inell was slain by Zombie
+[03:01:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03:04:28] [Server thread/INFO]: Named entity class_1641['Tara'/38580, l='ServerLevel[world]', x=-1385.77, y=127.94, z=-740.72] died: Tara burned to death
+[03:04:33] [Server thread/INFO]: Named entity class_1641['Inell'/38593, l='ServerLevel[world]', x=-1386.50, y=127.94, z=-733.30] died: Inell burned to death
+[03:10:44] [Server thread/WARN]: GingerCuban moved too quickly! -5.188480412213266,-0.2969401286921425,-16.640369895428194
+[03:10:56] [Server thread/WARN]: GingerCuban moved too quickly! -8.610688919367249,-0.005384188236888576,-15.861247666434338
+[03:12:20] [Server thread/INFO]: GingerCuban lost connection: Timed out
+[03:12:20] [Server thread/INFO]: GingerCuban left the game
+[03:14:03] [Server thread/INFO]: GingerCuban[/192.168.195.184:53601] logged in with entity id 43955 at (-1409.9317573990436, 130.5329293872148, -775.803476778498)
+[03:14:03] [Server thread/INFO]: Loading config from file...
+[03:14:03] [Server thread/INFO]: GingerCuban joined the game
+[03:15:37] [Server thread/WARN]: GingerCuban moved too quickly! 10.212990824988083,0.0,0.004255713106431358
+[03:16:15] [Server thread/WARN]: GingerCuban moved too quickly! -8.18561136421863,1.1661092609382138,-5.666246675125194
+[03:16:24] [Server thread/INFO]: Matiasauto lost connection: Disconnected
+[03:16:24] [Server thread/INFO]: Matiasauto left the game
+[03:16:47] [Server thread/WARN]: GingerCuban moved too quickly! -8.392079975618572,1.2522033402537147,5.60571122194176
+[03:17:19] [Server thread/INFO]: GingerCuban lost connection: Disconnected
+[03:17:19] [Server thread/INFO]: GingerCuban left the game
+[03:17:39] [Server thread/INFO]: GingerCuban[/192.168.195.184:53657] logged in with entity id 45694 at (-1374.7933918792185, 130.0, -786.1374999880791)
+[03:17:39] [Server thread/INFO]: Loading config from file...
+[03:17:39] [Server thread/INFO]: GingerCuban joined the game
+[03:17:58] [Server thread/INFO]: GingerCuban lost connection: Disconnected
+[03:17:58] [Server thread/INFO]: GingerCuban left the game
+[03:24:30] [Server thread/INFO]: GingerCuban[/192.168.195.184:53814] logged in with entity id 46422 at (-1376.9409501512237, 129.0, -782.2912356074917)
+[03:24:30] [Server thread/INFO]: Loading config from file...
+[03:24:30] [Server thread/INFO]: GingerCuban joined the game
+[03:25:17] [Server thread/INFO]: Matiasauto[/192.168.195.142:65234] logged in with entity id 47204 at (-400.216669542707, 197.0, 959.3004363411766)
+[03:25:17] [Server thread/INFO]: Loading config from file...
+[03:25:17] [Server thread/INFO]: Matiasauto joined the game

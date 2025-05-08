@@ -4159,12 +4159,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-05-08 02:40:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-05-08 02:14:01 +0000"
@@ -4177,9 +4171,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "has_smithing_trim_template": "2025-05-08 02:49:20 +0000"
+      "has_blaze_powder": "2025-05-08 02:14:01 +0000"
     },
     "done": true
   },
@@ -4189,21 +4183,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-08 02:40:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-05-08 02:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
     "criteria": {
       "has_spire_armor_trim_smithing_template": "2025-05-08 02:43:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-05-08 02:49:20 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon": {
-    "criteria": {
-      "has_melon_slice": "2025-05-08 02:44:32 +0000"
     },
     "done": true
   },
@@ -4213,15 +4207,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "travelersbackpack:recipes/misc/melon": {
     "criteria": {
-      "has_blaze_powder": "2025-05-08 02:14:01 +0000"
+      "has_melon_slice": "2025-05-08 02:44:32 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/magma_cube": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_magma_cream": "2025-05-08 02:40:49 +0000"
+      "has_smithing_trim_template": "2025-05-08 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-08 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-08 02:53:38 +0000"
     },
     "done": true
   },
