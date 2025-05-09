@@ -5322,6 +5322,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-05-09 04:51:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper": {
     "criteria": {
       "has_waxed_copper_block": "2025-05-09 02:14:53 +0000"
@@ -5403,6 +5409,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-05-09 02:14:53 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_flower_box": {
+    "criteria": {
+      "has_slab": "2025-05-09 04:51:07 +0000"
     },
     "done": true
   },
@@ -5501,6 +5513,12 @@
       "has_sherd": "2025-05-09 02:47:36 +0000"
     },
     "done": false
+  },
+  "another_furniture:recipes/birch_shutter": {
+    "criteria": {
+      "has_slab": "2025-05-09 04:51:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
     "criteria": {
