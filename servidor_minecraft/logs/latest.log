@@ -1,8 +1,8 @@
-[00:17:55] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[00:17:57] [main/WARN]: Warnings were found!
+[20:17:25] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[20:17:27] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[00:17:57] [main/INFO]: Loading 70 mods:
+[20:17:27] [main/INFO]: Loading 74 mods:
 	- another_furniture 4.0.0
 	- architectury 13.0.8
 	- cardinal-components 6.1.2
@@ -75,11 +75,15 @@
 	   \-- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
+	- handcrafted 4.0.3
 	- java 21
 	- lithostitched 1.4.2
 	- minecraft 1.21.1
 	- mr_dungeons_andtaverns 1-v4.4.4
 	- mr_dungeons_andtavernsstrongholdoverhaul 1-v2.1.f
+	- resourcefullib 3.0.11
+	   |-- com_teamresourceful_bytecodecs 1.1.2
+	   \-- com_teamresourceful_yabn 1.0.3
 	- tectonic 2.4.3
 	- trade_cycling 1.21.1-1.0.17
 	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
@@ -87,340 +91,76 @@
 	- travelersbackpack 10.1.19
 	- treeharvester 9.1
 	- villagernames 8.2
-[00:17:58] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/bedrock/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:17:58] [main/INFO]: Compatibility level set to JAVA_21
-[00:17:59] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:17:59] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:18:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:18:26] [main/INFO]: Loading Collective version 8.3.
-[00:18:26] [main/INFO]: fabric loader environment detected
-[00:18:29] [main/ERROR]: No data fixer registered for 
-[00:18:32] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[00:18:32] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[00:18:32] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[00:18:32] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[00:18:32] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[00:18:32] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:18:39] [main/INFO]: Loaded 1659 recipes
-[00:18:40] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[00:18:40] [main/INFO]: Loaded 1808 advancements
-[00:18:42] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 3.041 ms
-[00:18:42] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:18:42] [Server thread/INFO]: Loading properties
-[00:18:42] [Server thread/INFO]: Default game type: SURVIVAL
-[00:18:42] [Server thread/INFO]: Generating keypair
-[00:18:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:18:43] [Server thread/INFO]: Using epoll channel type
-[00:18:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:18:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:18:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:18:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:18:43] [Server thread/INFO]: Preparing level "world"
-[00:19:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:19:38] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[00:19:39] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[00:19:39] [Server thread/INFO]: Time elapsed: 14260 ms
-[00:19:39] [Server thread/INFO]: Done (56.146s)! For help, type "help"
-[00:19:48] [Server thread/INFO]: Connection closed during protocol change
-[00:19:48] [Server thread/INFO]: GingerCuban[/192.168.195.184:49308] logged in with entity id 11 at (-1374.569145879775, 129.0, -781.0478010028794)
-[00:19:48] [Server thread/INFO]: Connection closed during protocol change
-[00:19:48] [Server thread/INFO]: Loading config from file...
-[00:19:48] [Server thread/INFO]: GingerCuban joined the game
-[00:19:49] [Server thread/INFO]: GingerCuban lost connection: Disconnected
-[00:19:49] [Server thread/INFO]: GingerCuban left the game
-[00:19:59] [Server thread/INFO]: GingerCuban[/192.168.195.184:49317] logged in with entity id 12 at (-1374.569145879775, 129.0, -781.0478010028794)
-[00:19:59] [Server thread/INFO]: Loading config from file...
-[00:19:59] [Server thread/INFO]: GingerCuban joined the game
-[00:20:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
-[00:23:45] [Server thread/INFO]: Thexperson2[/192.168.195.124:51262] logged in with entity id 1229 at (-2543.3127136328167, -41.0, -399.8692555796991)
-[00:23:45] [Server thread/INFO]: Loading config from file...
-[00:23:45] [Server thread/INFO]: Thexperson2 joined the game
-[00:23:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3067ms or 61 ticks behind
-[00:24:08] [Server thread/INFO]: Thexperson2 tried to swim in lava
-[00:24:16] [Server thread/INFO]: Thexperson2 lost connection: Disconnected
-[00:24:16] [Server thread/INFO]: Thexperson2 left the game
-[00:25:27] [Server thread/INFO]: Thexperson2[/192.168.195.124:51321] logged in with entity id 2176 at (-1434.5, 158.0, -789.5)
-[00:25:27] [Server thread/INFO]: Loading config from file...
-[00:25:27] [Server thread/INFO]: Thexperson2 joined the game
-[00:26:04] [Server thread/INFO]: Thexperson2 fell from a high place
-[00:30:51] [Server thread/INFO]: Matiasauto[/192.168.195.142:57238] logged in with entity id 5932 at (-400.216669542707, 197.0, 959.3004363411766)
-[00:30:51] [Server thread/INFO]: Loading config from file...
-[00:30:51] [Server thread/INFO]: Matiasauto joined the game
-[00:37:45] [Server thread/INFO]: Thexperson2 lost connection: Disconnected
-[00:37:45] [Server thread/INFO]: Thexperson2 left the game
-[00:38:37] [Server thread/INFO]: Thexperson2[/192.168.195.124:51375] logged in with entity id 12084 at (18.19226706239264, -20.357156026112825, 218.3227906249272)
-[00:38:37] [Server thread/INFO]: Loading config from file...
-[00:38:38] [Server thread/INFO]: Thexperson2 joined the game
-[00:38:38] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[00:38:38] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[00:38:38] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[00:38:38] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[00:38:38] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[00:38:39] [Server thread/INFO]: Thexperson2 fell from a high place
-[00:38:39] [Server thread/INFO]: Created new backpack backup file for Thexperson2 with unique ID travelersbackpack.creeper_09.05.2025-00.38.39.dat
-[00:38:39] [Server thread/INFO]: Created new backpack backup file for Thexperson2 with unique ID travelersbackpack.creeper_09.05.2025-00.38.39.dat
-[00:38:39] [Server thread/INFO]: Your backpack has been placed at X: 2140 Y: 76 Z: -1159
-[00:38:46] [Server thread/INFO]: Thexperson2 fell off a ladder
-[00:38:47] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[00:38:49] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[00:56:57] [Server thread/WARN]: Matiasauto moved wrongly!
-[01:00:25] [Server thread/INFO]: Thexperson2 has reached the goal [You Need a Mint]
-[01:07:00] [Server thread/WARN]: Matiasauto moved too quickly! 2.6060621188776167,-3.361624568802199,17.237798375642228
-[01:16:20] [Server thread/WARN]: pichula01 (vehicle of GingerCuban) moved wrongly! 0.32527620518749245
-[01:16:20] [Server thread/WARN]: pichula01 (vehicle of GingerCuban) moved wrongly! 0.8017623131595428
-[01:16:53] [Server thread/INFO]: [Not Secure] <Matiasauto> xaero-waypoint:Provincia cubana:P:-1900:~:58:13:false:0:Internal-overworld-waypoints
-[01:20:13] [Server thread/WARN]: pichula01 (vehicle of GingerCuban) moved too quickly! 7.223362327419409,-3.0,-6.573063298746547
-[01:20:13] [Server thread/WARN]: pichula01 (vehicle of GingerCuban) moved wrongly! 0.40452700994683255
-[01:20:13] [Server thread/WARN]: pichula01 (vehicle of GingerCuban) moved wrongly! 1.037029416409041
-[01:20:13] [Server thread/WARN]: pichula01 (vehicle of GingerCuban) moved wrongly! 0.669348088122149
-[01:20:14] [Server thread/WARN]: pichula01 (vehicle of GingerCuban) moved wrongly! 0.3015684470342421
-[01:20:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:22:03] [Server thread/WARN]: Matiasauto moved too quickly! 12.729386281417419,-3.38818157414687,-12.693000963296624
-[01:29:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2974ms or 59 ticks behind
-[01:29:46] [Server thread/INFO]: Thexperson2 has completed the challenge [Subspace Bubble]
-[01:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
-[01:31:06] [Server thread/WARN]: Thexperson2 moved too quickly! 0.8468583689793263,-9.694561548248785,-2.4801523295162724
-[01:31:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20200ms or 404 ticks behind
-[01:31:07] [Server thread/WARN]: GingerCuban moved too quickly! -9.02949043469016,0.0,4.630327345493129
-[01:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8981ms or 179 ticks behind
-[01:31:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3275ms or 65 ticks behind
-[01:32:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3150ms or 63 ticks behind
-[01:33:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[01:33:59] [Server thread/INFO]: [Matiasauto: Teleported Matiasauto to Thexperson2]
-[01:34:17] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:minecraft_empty
-[01:45:46] [Server thread/INFO]: [Matiasauto: Teleported Matiasauto to Thexperson2]
-[01:47:12] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[01:47:26] [Server thread/INFO]: Matiasauto has made the advancement [Spooky Scary Skeleton]
-[01:48:25] [Server thread/INFO]: Thexperson2 lost connection: Disconnected
-[01:48:25] [Server thread/INFO]: Thexperson2 left the game
-[01:49:08] [Server thread/INFO]: Thexperson2[/192.168.195.124:51850] logged in with entity id 62780 at (-3208.681183125164, 200.72532508098604, 7680.905460490838)
-[01:49:08] [Server thread/INFO]: Loading config from file...
-[01:49:08] [Server thread/INFO]: Thexperson2 joined the game
-[01:49:08] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[01:49:09] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[01:49:09] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[01:49:09] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[01:49:09] [Server thread/INFO]: [Matiasauto: Teleported Thexperson2 to Matiasauto]
-[02:04:12] [Server thread/INFO]: Matiasauto has made the advancement [Who Needs Rockets?]
-[02:21:51] [Server thread/INFO]: Thexperson2 has reached the goal [Revaulting]
-[02:22:00] [Server thread/INFO]: GingerCuban has reached the goal [Revaulting]
-[02:22:52] [Server thread/INFO]: GingerCuban was shot by Thexperson2
-[02:22:52] [Server thread/INFO]: Created new backpack backup file for GingerCuban with unique ID travelersbackpack.bee_09.05.2025-02.22.52.dat
-[02:22:52] [Server thread/INFO]: Created new backpack backup file for GingerCuban with unique ID travelersbackpack.bee_09.05.2025-02.22.52.dat
-[02:22:52] [Server thread/INFO]: Your backpack has been placed at X: -2523 Y: -30 Z: -240
-[02:23:04] [Server thread/INFO]: [Matiasauto: Teleported GingerCuban to Matiasauto]
-[02:23:11] [Server thread/INFO]: [Matiasauto: Teleported GingerCuban to Matiasauto]
-[02:29:38] [Server thread/INFO]: GingerCuban was doomed to fall
-[02:29:38] [Server thread/INFO]: Created new backpack backup file for GingerCuban with unique ID travelersbackpack.bee_09.05.2025-02.29.38.dat
-[02:29:38] [Server thread/INFO]: Created new backpack backup file for GingerCuban with unique ID travelersbackpack.bee_09.05.2025-02.29.38.dat
-[02:29:38] [Server thread/INFO]: Your backpack has been placed at X: -2513 Y: -42 Z: -181
-[02:29:44] [Server thread/INFO]: [Matiasauto: Teleported GingerCuban to Matiasauto]
-[02:41:51] [Server thread/INFO]: [Not Secure] <Thexperson2> 6w
-[02:43:29] [Server thread/INFO]: Matiasauto has made the advancement [Wax Off]
-[02:43:38] [Server thread/INFO]: GingerCuban has made the advancement [Wax Off]
-[02:45:36] [Server thread/INFO]: Thexperson2 has made the advancement [Wax Off]
-[02:48:22] [Server thread/INFO]: Matiasauto has made the advancement [Lighten Up]
-[03:04:17] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@7b649c7, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-fe49b98b93c82b28.jar:?]
-	at net.minecraft.class_3244$1.handler$zka000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1767) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:04:17] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@6397ec26, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-fe49b98b93c82b28.jar:?]
-	at net.minecraft.class_3244$1.handler$zka000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1755) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34220(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5910.method_34213(class_2824.java:154) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_5383(class_1255.java:121) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:814) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:04:17] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@3927caaf, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-fe49b98b93c82b28.jar:?]
-	at net.minecraft.class_3244$1.handler$zka000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1767) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_5383(class_1255.java:121) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:814) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:04:57] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@46cf32d1, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-fe49b98b93c82b28.jar:?]
-	at net.minecraft.class_3244$1.handler$zka000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1767) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:04:57] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@11e77c0b, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-fe49b98b93c82b28.jar:?]
-	at net.minecraft.class_3244$1.handler$zka000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1755) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34220(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5910.method_34213(class_2824.java:154) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:04:57] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@739db609, suppressing error
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
-	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
-	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-fe49b98b93c82b28.jar:?]
-	at net.minecraft.class_3244$1.handler$zka000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1767) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:145) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:810) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:815) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[03:09:37] [Server thread/INFO]: Thexperson2 has reached the goal [Hired Help]
-[03:09:37] [Server thread/INFO]: GingerCuban has reached the goal [Hired Help]
-[03:20:06] [Server thread/WARN]: Matiasauto moved too quickly! 16.629416457418955,5.5370250174044315,-0.37122103391318717
-[03:20:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2898ms or 57 ticks behind
-[03:22:30] [Server thread/INFO]: Thexperson2 lost connection: Disconnected
-[03:22:30] [Server thread/INFO]: Thexperson2 left the game
-[04:53:53] [Server thread/INFO]: [Not Secure] <GingerCuban> si lees esto aprovechare a hacer algo rapido
-[04:57:29] [Server thread/INFO]: [Not Secure] <GingerCuban> bit ch
-[04:58:50] [Server thread/INFO]: [Not Secure] <GingerCuban> gei
-[05:02:47] [Server thread/INFO]: Matiasauto lost connection: Disconnected
-[05:02:47] [Server thread/INFO]: Matiasauto left the game
-[05:04:07] [Server thread/WARN]: GingerCuban moved too quickly! 7.677046941384788,0.0,6.6752022118882905
-[05:04:33] [Server thread/WARN]: GingerCuban moved too quickly! -2.2652232047075813,-1.0,9.729791600326735
-[05:18:25] [Server thread/INFO]: Matiasauto[/192.168.195.142:57458] logged in with entity id 134843 at (-1379.0444421276095, 129.0, -790.2278292477075)
-[05:18:25] [Server thread/INFO]: Loading config from file...
-[05:18:25] [Server thread/INFO]: Matiasauto joined the game
-[05:20:39] [Server thread/INFO]: [Not Secure] <Matiasauto> -1357
+[20:17:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/bedrock/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:17:28] [main/INFO]: Compatibility level set to JAVA_21
+[20:17:29] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:17:29] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:17:31] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:17:53] [main/INFO]: Loading Collective version 8.3.
+[20:17:53] [main/INFO]: fabric loader environment detected
+[20:17:57] [main/ERROR]: No data fixer registered for handcrafted
+[20:17:58] [main/ERROR]: No data fixer registered for 
+[20:18:00] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[20:18:00] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[20:18:00] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[20:18:00] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[20:18:01] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[20:18:01] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:18:07] [main/INFO]: Loaded 1976 recipes
+[20:18:07] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[20:18:07] [main/INFO]: Loaded 2125 advancements
+[20:18:12] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 6.970 ms
+[20:18:12] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:18:12] [Server thread/INFO]: Loading properties
+[20:18:12] [Server thread/INFO]: Default game type: SURVIVAL
+[20:18:12] [Server thread/INFO]: Generating keypair
+[20:18:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:18:13] [Server thread/INFO]: Using epoll channel type
+[20:18:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:18:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:18:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:18:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:18:13] [Server thread/INFO]: Preparing level "world"
+[20:18:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:19:05] [Server thread/INFO]: Time elapsed: 13333 ms
+[20:19:05] [Server thread/INFO]: Done (52.287s)! For help, type "help"
+[20:20:30] [Server thread/INFO]: Matiasauto[/192.168.195.142:56544] logged in with entity id 11 at (-1373.5, 129.5625, -783.5)
+[20:20:30] [Server thread/INFO]: Loading config from file...
+[20:20:30] [Server thread/INFO]: Matiasauto joined the game
+[20:21:34] [Server thread/INFO]: GingerCuban[/192.168.195.184:63957] logged in with entity id 856 at (-1372.2353071186312, 130.0, -779.4077134047877)
+[20:21:34] [Server thread/INFO]: Loading config from file...
+[20:21:34] [Server thread/INFO]: GingerCuban joined the game
+[20:23:06] [Server thread/INFO]: Matiasauto has made the advancement [Bring Home the Beacon]
+[20:37:03] [Server thread/WARN]: Matiasauto moved wrongly!
+[20:38:32] [Server thread/INFO]: Matiasauto lost connection: Disconnected
+[20:38:32] [Server thread/INFO]: Matiasauto left the game
+[20:38:41] [Server thread/INFO]: Matiasauto[/192.168.195.142:57593] logged in with entity id 8805 at (-1358.255334951107, 129.0, -772.6999999880791)
+[20:38:41] [Server thread/INFO]: Loading config from file...
+[20:38:41] [Server thread/INFO]: Matiasauto joined the game
