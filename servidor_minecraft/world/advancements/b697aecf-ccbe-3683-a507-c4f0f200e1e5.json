@@ -19,6 +19,7 @@
       "minecraft:dripstone_caves": "2025-05-03 01:27:06 +0000",
       "minecraft:frozen_peaks": "2025-05-01 22:49:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 22:40:41 +0000",
+      "minecraft:deep_dark": "2025-05-09 02:56:43 +0000",
       "minecraft:jungle": "2025-05-01 23:51:34 +0000",
       "minecraft:cherry_grove": "2025-05-01 22:50:30 +0000",
       "minecraft:sunflower_plains": "2025-05-01 23:13:42 +0000",
@@ -40,8 +41,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-06 02:48:44 +0000",
+      "apple": "2025-05-09 03:49:25 +0000",
       "bread": "2025-05-02 00:37:38 +0000",
       "golden_apple": "2025-05-02 03:44:43 +0000",
+      "cooked_chicken": "2025-05-09 02:12:32 +0000",
       "cookie": "2025-05-01 23:47:58 +0000",
       "enchanted_golden_apple": "2025-05-08 02:10:14 +0000",
       "cooked_beef": "2025-05-02 04:10:44 +0000",
@@ -140,6 +143,7 @@
       "minecraft:pillager": "2025-05-02 23:47:45 +0000",
       "minecraft:skeleton": "2025-05-02 01:15:54 +0000",
       "minecraft:phantom": "2025-05-07 03:33:25 +0000",
+      "minecraft:bogged": "2025-05-09 02:03:15 +0000",
       "minecraft:ghast": "2025-05-04 23:05:14 +0000",
       "minecraft:hoglin": "2025-05-04 23:02:02 +0000",
       "minecraft:shulker": "2025-05-02 02:09:12 +0000",
@@ -152,7 +156,8 @@
       "minecraft:zombie": "2025-05-01 23:07:31 +0000",
       "minecraft:creeper": "2025-05-02 03:42:22 +0000",
       "minecraft:drowned": "2025-05-02 00:05:08 +0000",
-      "minecraft:zombie_villager": "2025-05-07 02:09:26 +0000"
+      "minecraft:zombie_villager": "2025-05-07 02:09:26 +0000",
+      "minecraft:slime": "2025-05-09 02:16:20 +0000"
     },
     "done": false
   },
@@ -4231,6 +4236,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-09 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-09 02:22:07 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/light_gray_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-09 00:31:04 +0000"
@@ -4243,9 +4260,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-05-09 01:43:46 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/cyan_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-09 00:31:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_light_gray_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 01:47:23 +0000"
     },
     "done": true
   },
@@ -4279,9 +4308,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-09 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-09 02:07:17 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/lime_curtain_dyeing": {
     "criteria": {
       "has_white_curtain": "2025-05-09 00:22:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_stool": {
+    "criteria": {
+      "has_wool": "2025-05-09 01:43:46 +0000"
     },
     "done": true
   },
@@ -4291,15 +4338,63 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-05-09 02:00:57 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/orange_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-09 00:31:04 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-05-09 02:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-05-09 02:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-05-09 03:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-09 02:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-05-09 03:24:13 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/light_blue_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-09 00:31:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-09 01:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-09 03:37:00 +0000"
     },
     "done": true
   },
@@ -4315,6 +4410,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-05-09 01:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 01:36:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_blue_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 01:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-05-09 02:00:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_purple_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 03:24:13 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/light_gray_curtain_dyeing": {
     "criteria": {
       "has_white_curtain": "2025-05-09 00:22:00 +0000"
@@ -4327,9 +4458,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-09 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-05-09 01:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-09 02:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-09 01:19:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-05-09 01:43:46 +0000"
     },
     "done": true
   },
@@ -4339,9 +4494,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-09 02:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-09 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-09 01:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2025-05-09 02:31:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-05-09 00:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-09 03:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-09 02:11:22 +0000"
     },
     "done": true
   },
@@ -4363,9 +4554,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 01:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-09 01:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 01:36:06 +0000"
     },
     "done": true
   },
@@ -4375,9 +4578,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-09 02:00:05 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/brown_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-09 00:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-09 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-05-09 03:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 03:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-05-09 01:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-09 02:11:22 +0000"
     },
     "done": true
   },
@@ -4399,9 +4638,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-09 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-09 02:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-05-09 00:28:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-09 01:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-09 01:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-09 02:00:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-09 02:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-09 02:31:21 +0000"
     },
     "done": true
   },
@@ -4423,9 +4704,45 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 03:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 03:24:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_red_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 01:36:06 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_curtain_dyeing": {
     "criteria": {
       "has_white_curtain": "2025-05-09 00:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-09 03:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-09 01:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-09 02:00:05 +0000"
     },
     "done": true
   },
@@ -4447,15 +4764,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-09 02:07:17 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/purple_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-09 00:31:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-09 02:07:17 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/brown_curtain_dyeing": {
     "criteria": {
       "has_white_curtain": "2025-05-09 00:22:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-09 01:43:46 +0000"
     },
     "done": true
   },
@@ -4468,6 +4803,12 @@
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-05-09 01:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-05-09 02:11:22 +0000"
     },
     "done": true
   },
