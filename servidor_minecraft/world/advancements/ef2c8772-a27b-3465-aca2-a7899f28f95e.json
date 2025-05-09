@@ -6247,5 +6247,11 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-05-09 21:29:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

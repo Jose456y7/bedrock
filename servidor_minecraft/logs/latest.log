@@ -188,3 +188,13 @@
 [21:21:07] [Server thread/INFO]: Named entity class_1646['Joey'/27057, l='ServerLevel[world]', x=-1385.69, y=129.00, z=-765.31] died: Joey was slain by Zombie
 [21:29:56] [Server thread/INFO]: GingerCuban lost connection: Disconnected
 [21:29:56] [Server thread/INFO]: GingerCuban left the game
+[21:30:33] [Server thread/INFO]: GingerCuban[/192.168.195.184:64277] logged in with entity id 32642 at (-1365.7164038964288, 129.0, -777.6693722250651)
+[21:30:33] [Server thread/INFO]: Loading config from file...
+[21:30:33] [Server thread/INFO]: GingerCuban joined the game
+[21:32:01] [Server thread/INFO]: GingerCuban has made the advancement [Spooky Scary Skeleton]
+[21:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[21:38:35] [Server thread/INFO]: Matiasauto lost connection: Disconnected
+[21:38:35] [Server thread/INFO]: Matiasauto left the game
+[21:38:44] [Server thread/INFO]: Matiasauto[/192.168.195.142:61046] logged in with entity id 36310 at (-31.592523774706024, 55.0, 60.104988772302306)
+[21:38:44] [Server thread/INFO]: Loading config from file...
+[21:38:44] [Server thread/INFO]: Matiasauto joined the game
