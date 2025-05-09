@@ -184,3 +184,7 @@
 [21:17:24] [Server thread/WARN]: pichula01 (vehicle of GingerCuban) moved too quickly! 11.508203182520447,3.0,-2.8037947352614765
 [21:17:24] [Server thread/WARN]: pichula01 (vehicle of GingerCuban) moved too quickly! 11.943234383437812,3.0,-3.066654210134061
 [21:17:24] [Server thread/WARN]: pichula01 (vehicle of GingerCuban) moved too quickly! 12.378232251013742,3.0,-3.329621388919122
+[21:21:07] [Server thread/INFO]: Villager class_1646['Joey'/27057, l='ServerLevel[world]', x=-1385.69, y=129.00, z=-765.31] died, message: 'Joey was slain by Zombie'
+[21:21:07] [Server thread/INFO]: Named entity class_1646['Joey'/27057, l='ServerLevel[world]', x=-1385.69, y=129.00, z=-765.31] died: Joey was slain by Zombie
+[21:29:56] [Server thread/INFO]: GingerCuban lost connection: Disconnected
+[21:29:56] [Server thread/INFO]: GingerCuban left the game
