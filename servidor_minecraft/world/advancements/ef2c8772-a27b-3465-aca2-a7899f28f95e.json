@@ -3896,7 +3896,8 @@
       "minecraft:cat": "2025-05-02 06:32:33 +0000",
       "minecraft:cow": "2025-05-04 20:43:07 +0000",
       "minecraft:turtle": "2025-05-07 00:46:35 +0000",
-      "minecraft:sheep": "2025-05-02 19:41:52 +0000"
+      "minecraft:sheep": "2025-05-02 19:41:52 +0000",
+      "minecraft:bee": "2025-05-09 22:56:13 +0000"
     },
     "done": false
   },
@@ -6250,6 +6251,240 @@
   "handcrafted:recipes/misc/fancy_painting": {
     "criteria": {
       "has_fancy_painting": "2025-05-09 21:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-05-09 23:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
+    "criteria": {
+      "has_blue_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_sheet_from_red_dye": {
+    "criteria": {
+      "has_red_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/magenta_sleeping_bag": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-09 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_stool": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:06:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/magenta_sheet": {
+    "criteria": {
+      "has_magenta_sheet": "2025-05-09 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-05-09 23:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-09 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-05-09 23:06:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-05-09 23:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_sheet_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_sheet_from_pink_dye": {
+    "criteria": {
+      "has_pink_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_stool": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_sheet_from_white_dye": {
+    "criteria": {
+      "has_white_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_sheet_from_yellow_dye": {
+    "criteria": {
+      "has_yellow_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-09 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
+    "criteria": {
+      "has_orange_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-09 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_cushion": {
+    "criteria": {
+      "has_purple_cushion": "2025-05-09 23:06:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_sheet_from_brown_dye": {
+    "criteria": {
+      "has_brown_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_sheet_from_lime_dye": {
+    "criteria": {
+      "has_lime_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
+    "criteria": {
+      "has_purple_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_sheet_from_green_dye": {
+    "criteria": {
+      "has_green_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_sheet_from_gray_dye": {
+    "criteria": {
+      "has_gray_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/magenta_cushion": {
+    "criteria": {
+      "has_magenta_cushion": "2025-05-09 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_sheet_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_sheet_from_black_dye": {
+    "criteria": {
+      "has_black_sheet": "2025-05-09 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_sheet": {
+    "criteria": {
+      "has_purple_sheet": "2025-05-09 23:06:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-05-09 23:03:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:06:08 +0000"
     },
     "done": true
   },

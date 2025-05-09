@@ -203,3 +203,28 @@
 [22:24:55] [Server thread/INFO]: Matiasauto[/192.168.195.142:63948] logged in with entity id 49990 at (-1370.135191957969, 129.0, -767.6543977345269)
 [22:24:55] [Server thread/INFO]: Loading config from file...
 [22:24:55] [Server thread/INFO]: Matiasauto joined the game
+[22:55:47] [Server thread/INFO]: [Not Secure] <Matiasauto> xaero-waypoint:Waypoint:X:-1607:136:-459:9:false:0:Internal-overworld-waypoints
+[22:58:22] [Server thread/INFO]: Villager class_1646['Reginald'/27052, l='ServerLevel[world]', x=-1383.46, y=117.05, z=-778.30] died, message: 'Reginald tried to swim in lava'
+[22:58:22] [Server thread/INFO]: Named entity class_1646['Reginald'/27052, l='ServerLevel[world]', x=-1383.46, y=117.05, z=-778.30] died: Reginald tried to swim in lava
+[22:58:31] [Server thread/INFO]: Villager class_1646['Cecille'/27049, l='ServerLevel[world]', x=-1386.46, y=117.03, z=-776.44] died, message: 'Cecille tried to swim in lava'
+[22:58:31] [Server thread/INFO]: Named entity class_1646['Cecille'/27049, l='ServerLevel[world]', x=-1386.46, y=117.03, z=-776.44] died: Cecille tried to swim in lava
+[22:58:35] [Server thread/INFO]: Villager class_1646['Mendy'/27048, l='ServerLevel[world]', x=-1386.50, y=117.05, z=-774.50] died, message: 'Mendy tried to swim in lava'
+[22:58:35] [Server thread/INFO]: Named entity class_1646['Mendy'/27048, l='ServerLevel[world]', x=-1386.50, y=117.05, z=-774.50] died: Mendy tried to swim in lava
+[22:58:38] [Server thread/INFO]: Villager class_1646['Ericka'/27050, l='ServerLevel[world]', x=-1381.50, y=117.03, z=-778.30] died, message: 'Ericka tried to swim in lava'
+[22:58:38] [Server thread/INFO]: Named entity class_1646['Ericka'/27050, l='ServerLevel[world]', x=-1381.50, y=117.03, z=-778.30] died: Ericka tried to swim in lava
+[22:58:43] [Server thread/INFO]: Villager class_1646['Ashely'/27053, l='ServerLevel[world]', x=-1377.58, y=117.05, z=-778.30] died, message: 'Ashely tried to swim in lava'
+[22:58:43] [Server thread/INFO]: Named entity class_1646['Ashely'/27053, l='ServerLevel[world]', x=-1377.58, y=117.05, z=-778.30] died: Ashely tried to swim in lava
+[22:58:45] [Server thread/INFO]: Villager class_1646['Van'/27128, l='ServerLevel[world]', x=-1374.50, y=117.05, z=-775.50] died, message: 'Van tried to swim in lava'
+[22:58:45] [Server thread/INFO]: Named entity class_1646['Van'/27128, l='ServerLevel[world]', x=-1374.50, y=117.05, z=-775.50] died: Van tried to swim in lava
+[22:58:48] [Server thread/INFO]: Villager class_1646['Reginald'/27054, l='ServerLevel[world]', x=-1376.50, y=117.03, z=-773.50] died, message: 'Reginald tried to swim in lava'
+[22:58:48] [Server thread/INFO]: Named entity class_1646['Reginald'/27054, l='ServerLevel[world]', x=-1376.50, y=117.03, z=-773.50] died: Reginald tried to swim in lava
+[22:58:48] [Server thread/INFO]: Villager class_1646['Chance'/27051, l='ServerLevel[world]', x=-1379.32, y=117.00, z=-778.57] died, message: 'Chance burned to death'
+[22:58:48] [Server thread/INFO]: Named entity class_1646['Chance'/27051, l='ServerLevel[world]', x=-1379.32, y=117.00, z=-778.57] died: Chance burned to death
+[22:58:51] [Server thread/INFO]: Villager class_1646['Genia'/27129, l='ServerLevel[world]', x=-1373.60, y=117.05, z=-778.35] died, message: 'Genia tried to swim in lava'
+[22:58:51] [Server thread/INFO]: Named entity class_1646['Genia'/27129, l='ServerLevel[world]', x=-1373.60, y=117.05, z=-778.35] died: Genia tried to swim in lava
+[22:58:54] [Server thread/INFO]: Villager class_1646['Kyla'/27130, l='ServerLevel[world]', x=-1373.47, y=117.03, z=-780.50] died, message: 'Kyla tried to swim in lava'
+[22:58:54] [Server thread/INFO]: Named entity class_1646['Kyla'/27130, l='ServerLevel[world]', x=-1373.47, y=117.03, z=-780.50] died: Kyla tried to swim in lava
+[22:59:00] [Server thread/INFO]: Villager class_1646['Gordon'/27085, l='ServerLevel[world]', x=-1376.56, y=117.05, z=-785.19] died, message: 'Gordon tried to swim in lava'
+[22:59:00] [Server thread/INFO]: Named entity class_1646['Gordon'/27085, l='ServerLevel[world]', x=-1376.56, y=117.05, z=-785.19] died: Gordon tried to swim in lava
+[22:59:04] [Server thread/INFO]: Villager class_1646['Rusty'/27131, l='ServerLevel[world]', x=-1373.26, y=117.00, z=-782.63] died, message: 'Rusty tried to swim in lava'
+[22:59:04] [Server thread/INFO]: Named entity class_1646['Rusty'/27131, l='ServerLevel[world]', x=-1373.26, y=117.00, z=-782.63] died: Rusty tried to swim in lava
