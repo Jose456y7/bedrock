@@ -5263,27 +5263,45 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/light_gray_cushion": {
+  "travelersbackpack:recipes/misc/wither": {
     "criteria": {
-      "has_light_gray_cushion": "2025-05-09 22:38:54 +0000"
+      "has_wither_skeleton_skull": "2025-05-09 21:32:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "has_blue_sheet": "2025-05-09 23:08:31 +0000"
+      "wither_skull": "2025-05-09 21:32:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_sheet_from_red_dye": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_red_sheet": "2025-05-09 23:08:31 +0000"
+      "has_wither_skeleton_skull": "2025-05-09 21:32:01 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/pink_sheet": {
+  "handcrafted:recipes/misc/blue_bowl": {
     "criteria": {
-      "has_pink_sheet": "2025-05-09 22:10:09 +0000"
+      "has_blue_bowl": "2025-05-09 21:33:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_crockery_combo": {
+    "criteria": {
+      "has_blue_crockery_combo": "2025-05-09 21:33:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cup": {
+    "criteria": {
+      "has_blue_cup": "2025-05-09 21:33:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_plate": {
+    "criteria": {
+      "has_blue_plate": "2025-05-09 21:33:39 +0000"
     },
     "done": true
   },
@@ -5293,63 +5311,27 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/black_sheet": {
-    "criteria": {
-      "has_black_sheet": "2025-05-09 21:39:55 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/pink_cushion": {
-    "criteria": {
-      "has_pink_cushion": "2025-05-09 22:10:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/yellow_bowl": {
-    "criteria": {
-      "has_yellow_bowl": "2025-05-09 22:04:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2025-05-09 22:04:17 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/building_blocks/dye_magenta_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-05-09 21:38:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
+  "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
-      "has_compass": "2025-05-09 23:16:38 +0000"
+      "has_magenta_dye": "2025-05-09 21:38:41 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/light_gray_sheet": {
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
     "criteria": {
-      "has_light_gray_sheet": "2025-05-09 22:38:54 +0000"
+      "has_needed_dye": "2025-05-09 21:38:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
     "criteria": {
-      "has_needed_dye": "2025-05-09 22:04:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
-    "criteria": {
-      "has_light_blue_sheet": "2025-05-09 23:08:31 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/gray_cushion": {
-    "criteria": {
-      "has_gray_cushion": "2025-05-09 22:38:54 +0000"
+      "has_needed_dye": "2025-05-09 21:38:41 +0000"
     },
     "done": true
   },
@@ -5365,21 +5347,123 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/wither": {
+  "handcrafted:recipes/misc/black_sheet": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-05-09 21:32:01 +0000"
+      "has_black_sheet": "2025-05-09 21:39:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_candle": {
+  "handcrafted:recipes/misc/black_cushion": {
     "criteria": {
-      "has_magenta_dye": "2025-05-09 21:38:41 +0000"
+      "has_black_cushion": "2025-05-09 21:39:55 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/blue_bowl": {
+  "handcrafted:recipes/misc/yellow_bowl": {
     "criteria": {
-      "has_blue_bowl": "2025-05-09 21:33:39 +0000"
+      "has_yellow_bowl": "2025-05-09 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-05-09 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_yellow_cup": "2025-05-09 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2025-05-09 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_yellow_crockery_combo": "2025-05-09 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pink_sheet": {
+    "criteria": {
+      "has_pink_sheet": "2025-05-09 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pink_cushion": {
+    "criteria": {
+      "has_pink_cushion": "2025-05-09 22:10:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-05-09 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-05-09 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-05-09 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-05-09 22:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
+    "criteria": {
+      "has_blue_sheet": "2025-05-09 23:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_sheet_from_red_dye": {
+    "criteria": {
+      "has_red_sheet": "2025-05-09 23:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-05-09 23:08:31 +0000"
     },
     "done": true
   },
@@ -5413,36 +5497,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/yellow_cup": {
-    "criteria": {
-      "has_yellow_cup": "2025-05-09 22:04:17 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/gray_sheet": {
-    "criteria": {
-      "has_gray_sheet": "2025-05-09 22:38:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-09 21:38:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-05-09 21:32:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_magenta_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-09 21:38:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/brown_sheet_from_brown_dye": {
     "criteria": {
       "has_brown_sheet": "2025-05-09 23:08:31 +0000"
@@ -5455,39 +5509,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/yellow_plate": {
-    "criteria": {
-      "has_yellow_plate": "2025-05-09 22:04:17 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-05-09 22:04:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-09 22:04:17 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blue_crockery_combo": {
-    "criteria": {
-      "has_blue_crockery_combo": "2025-05-09 21:33:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
     "criteria": {
       "has_purple_sheet": "2025-05-09 23:08:31 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/yellow_crockery_combo": {
-    "criteria": {
-      "has_yellow_crockery_combo": "2025-05-09 22:04:17 +0000"
     },
     "done": true
   },
@@ -5503,21 +5527,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/blue_cup": {
-    "criteria": {
-      "has_blue_cup": "2025-05-09 21:33:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
     "criteria": {
       "has_cyan_sheet": "2025-05-09 23:08:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-09 22:04:17 +0000"
     },
     "done": true
   },
@@ -5527,27 +5539,81 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/blue_plate": {
-    "criteria": {
-      "has_blue_plate": "2025-05-09 21:33:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/black_sheet_from_black_dye": {
     "criteria": {
       "has_black_sheet": "2025-05-09 23:08:31 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/black_cushion": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "has_black_cushion": "2025-05-09 21:39:55 +0000"
+      "has_compass": "2025-05-09 23:16:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "travelersbackpack:recipes/decorations/magenta_sleeping_bag": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-05-09 21:32:01 +0000"
+      "has_magenta_wool": "2025-05-09 23:40:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/magenta_sheet": {
+    "criteria": {
+      "has_magenta_sheet": "2025-05-09 23:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-09 23:40:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_stool": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-09 23:40:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-09 23:40:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:40:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/magenta_cushion": {
+    "criteria": {
+      "has_magenta_cushion": "2025-05-09 23:40:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:40:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-09 23:40:40 +0000"
     },
     "done": true
   },
