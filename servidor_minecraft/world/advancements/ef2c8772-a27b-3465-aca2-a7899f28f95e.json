@@ -6272,6 +6272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-09 23:23:46 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/magenta_sleeping_bag": {
     "criteria": {
       "has_magenta_wool": "2025-05-09 23:06:08 +0000"
@@ -6395,6 +6401,12 @@
   "another_furniture:recipes/magenta_lamp": {
     "criteria": {
       "has_wool": "2025-05-09 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
+    "criteria": {
+      "has_silence_armor_trim_smithing_template": "2025-05-09 23:23:46 +0000"
     },
     "done": true
   },
