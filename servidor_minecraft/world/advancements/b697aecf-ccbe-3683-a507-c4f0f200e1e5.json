@@ -4470,6 +4470,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-05-09 05:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2025-05-09 01:43:46 +0000"
@@ -4752,6 +4758,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2025-05-09 05:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-05-09 01:36:06 +0000"
@@ -4791,6 +4803,12 @@
   "another_furniture:recipes/purple_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-09 00:31:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2025-05-09 05:27:31 +0000"
     },
     "done": true
   },

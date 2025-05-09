@@ -5658,5 +5658,149 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 05:32:22 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_light_gray_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 05:32:22 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-05-09 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 05:32:22 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 05:32:22 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-05-09 05:32:22 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2025-05-09 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2025-05-09 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_lamp_dyeing": {
+    "criteria": {
+      "has_white_lamp": "2025-05-09 05:27:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
