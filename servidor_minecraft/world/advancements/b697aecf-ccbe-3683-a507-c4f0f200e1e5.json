@@ -47,6 +47,7 @@
       "cooked_chicken": "2025-05-09 02:12:32 +0000",
       "cookie": "2025-05-01 23:47:58 +0000",
       "enchanted_golden_apple": "2025-05-08 02:10:14 +0000",
+      "cooked_mutton": "2025-05-09 22:43:46 +0000",
       "cooked_beef": "2025-05-02 04:10:44 +0000",
       "chorus_fruit": "2025-05-03 01:50:34 +0000",
       "porkchop": "2025-05-04 01:50:23 +0000",
@@ -5262,6 +5263,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-05-09 22:38:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pink_sheet": {
     "criteria": {
       "has_pink_sheet": "2025-05-09 22:10:09 +0000"
@@ -5304,9 +5311,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-05-09 22:38:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-09 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-05-09 22:38:54 +0000"
     },
     "done": true
   },
@@ -5343,6 +5362,12 @@
   "handcrafted:recipes/misc/yellow_cup": {
     "criteria": {
       "has_yellow_cup": "2025-05-09 22:04:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-05-09 22:38:54 +0000"
     },
     "done": true
   },
