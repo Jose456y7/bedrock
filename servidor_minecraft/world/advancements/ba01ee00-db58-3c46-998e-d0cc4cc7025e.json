@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-01 20:47:42 +0000",
       "minecraft:forest": "2025-05-01 20:38:52 +0000",
+      "minecraft:deep_ocean": "2025-05-09 01:29:48 +0000",
       "minecraft:lush_caves": "2025-05-02 01:03:08 +0000",
       "minecraft:jungle": "2025-05-01 21:25:41 +0000",
       "minecraft:cherry_grove": "2025-05-02 04:56:16 +0000",
@@ -4886,6 +4887,30 @@
   "travelersbackpack:recipes/misc/bee_smithing": {
     "criteria": {
       "has_bee": "2025-05-09 00:34:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/dragon": {
+    "criteria": {
+      "has_dragon_breath": "2025-05-09 01:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-05-09 01:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-05-09 01:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-09 01:29:09 +0000"
     },
     "done": true
   },

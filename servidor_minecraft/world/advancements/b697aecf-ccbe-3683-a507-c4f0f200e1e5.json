@@ -4267,6 +4267,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 01:19:27 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/yellow_curtain_dyeing": {
     "criteria": {
       "has_white_curtain": "2025-05-09 00:22:00 +0000"
@@ -4276,6 +4282,12 @@
   "another_furniture:recipes/lime_curtain_dyeing": {
     "criteria": {
       "has_white_curtain": "2025-05-09 00:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-09 00:48:10 +0000"
     },
     "done": true
   },
@@ -4315,6 +4327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 01:19:27 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/red_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-09 00:31:04 +0000"
@@ -4342,6 +4360,12 @@
   "another_furniture:recipes/red_curtain_dyeing": {
     "criteria": {
       "has_white_curtain": "2025-05-09 00:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 01:19:27 +0000"
     },
     "done": true
   },
@@ -4387,6 +4411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-09 01:02:28 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-09 00:31:04 +0000"
@@ -4405,6 +4435,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-09 01:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-09 01:19:27 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/purple_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-09 00:31:04 +0000"
@@ -4414,6 +4456,24 @@
   "another_furniture:recipes/brown_curtain_dyeing": {
     "criteria": {
       "has_white_curtain": "2025-05-09 00:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-09 01:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-05-09 01:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-09 01:19:27 +0000"
     },
     "done": true
   },
