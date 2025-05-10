@@ -5593,6 +5593,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/purple_cushion": {
+    "criteria": {
+      "has_purple_cushion": "2025-05-09 23:49:27 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/magenta_lamp": {
     "criteria": {
       "has_wool": "2025-05-09 23:40:40 +0000"
@@ -5602,6 +5608,12 @@
   "handcrafted:recipes/misc/magenta_cushion": {
     "criteria": {
       "has_magenta_cushion": "2025-05-09 23:40:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_sheet": {
+    "criteria": {
+      "has_purple_sheet": "2025-05-09 23:49:27 +0000"
     },
     "done": true
   },

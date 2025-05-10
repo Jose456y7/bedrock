@@ -300,3 +300,33 @@
 [23:51:05] [Server thread/INFO]: [Not Secure] <Matiasauto> okei
 [23:51:08] [Server thread/INFO]: [Not Secure] <Matiasauto> te per don o
 [23:51:13] [Server thread/INFO]: [Not Secure] <Matiasauto> putamadre pio pio
+[23:54:48] [Server thread/INFO]: [Not Secure] <GingerCuban> medas mi estandar te
+[23:57:07] [Server thread/INFO]: [Not Secure] <GingerCuban> G R A C I A S
+[23:59:06] [Server thread/INFO]: Villager class_1646['Eric'/73101, l='ServerLevel[world]', x=-1358.62, y=129.00, z=-765.70] died, message: 'Eric was slain by Joey'
+[23:59:06] [Server thread/INFO]: Named entity class_1646['Eric'/73101, l='ServerLevel[world]', x=-1358.62, y=129.00, z=-765.70] died: Eric was slain by Joey
+[23:59:14] [Server thread/INFO]: Villager class_1646['Silas'/73256, l='ServerLevel[world]', x=-1359.66, y=129.00, z=-765.70] died, message: 'Silas was slain by Eric'
+[23:59:14] [Server thread/INFO]: Named entity class_1646['Silas'/73256, l='ServerLevel[world]', x=-1359.66, y=129.00, z=-765.70] died: Silas was slain by Eric
+[23:59:14] [Server thread/INFO]: Villager class_1646['Ming'/73105, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.30] died, message: 'Ming was slain by Joey'
+[23:59:14] [Server thread/INFO]: Named entity class_1646['Ming'/73105, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.30] died: Ming was slain by Joey
+[23:59:22] [Server thread/INFO]: Villager class_1646['Erik'/73203, l='ServerLevel[world]', x=-1362.70, y=129.00, z=-765.30] died, message: 'Erik was slain by Silas'
+[23:59:22] [Server thread/INFO]: Named entity class_1646['Erik'/73203, l='ServerLevel[world]', x=-1362.70, y=129.00, z=-765.30] died: Erik was slain by Silas
+[23:59:23] [Server thread/INFO]: Villager class_1646['Alejandro'/73206, l='ServerLevel[world]', x=-1361.38, y=129.00, z=-765.30] died, message: 'Alejandro was slain by Ming'
+[23:59:23] [Server thread/INFO]: Named entity class_1646['Alejandro'/73206, l='ServerLevel[world]', x=-1361.38, y=129.00, z=-765.30] died: Alejandro was slain by Ming
+[23:59:25] [Server thread/INFO]: Villager class_1646['Theola'/73205, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.70] died, message: 'Theola was slain by Eric'
+[23:59:25] [Server thread/INFO]: Named entity class_1646['Theola'/73205, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.70] died: Theola was slain by Eric
+[23:59:28] [Server thread/INFO]: Villager class_1646['Audrea'/73204, l='ServerLevel[world]', x=-1361.49, y=129.00, z=-765.30] died, message: 'Audrea was slain by Ming'
+[23:59:28] [Server thread/INFO]: Named entity class_1646['Audrea'/73204, l='ServerLevel[world]', x=-1361.49, y=129.00, z=-765.30] died: Audrea was slain by Ming
+[23:59:34] [Server thread/INFO]: Villager class_1646['Stevie'/73104, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.30] died, message: 'Stevie was slain by Theola'
+[23:59:34] [Server thread/INFO]: Named entity class_1646['Stevie'/73104, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.30] died: Stevie was slain by Theola
+[23:59:35] [Server thread/INFO]: Villager class_1646['Paul'/73209, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.70] died, message: 'Paul was slain by Ming'
+[23:59:35] [Server thread/INFO]: Named entity class_1646['Paul'/73209, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.70] died: Paul was slain by Ming
+[23:59:41] [Server thread/INFO]: Villager class_1646['Dina'/73207, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.70] died, message: 'Dina was slain by Ming'
+[23:59:41] [Server thread/INFO]: Named entity class_1646['Dina'/73207, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.70] died: Dina was slain by Ming
+[23:59:42] [Server thread/INFO]: Villager class_1646['Shantay'/73103, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.70] died, message: 'Shantay was slain by Eric'
+[23:59:42] [Server thread/INFO]: Named entity class_1646['Shantay'/73103, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.70] died: Shantay was slain by Eric
+[23:59:43] [Server thread/INFO]: Villager class_1646['Santo'/73208, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.30] died, message: 'Santo was slain by Erik'
+[23:59:43] [Server thread/INFO]: Named entity class_1646['Santo'/73208, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.30] died: Santo was slain by Erik
+[23:59:44] [Server thread/INFO]: Villager class_1646['Stevie'/73257, l='ServerLevel[world]', x=-1357.69, y=129.00, z=-765.70] died, message: 'Stevie was slain by Santo'
+[23:59:44] [Server thread/INFO]: Named entity class_1646['Stevie'/73257, l='ServerLevel[world]', x=-1357.69, y=129.00, z=-765.70] died: Stevie was slain by Santo
+[23:59:48] [Server thread/INFO]: Villager class_1646['Norris'/73202, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.70] died, message: 'Norris was slain by Eric'
+[23:59:48] [Server thread/INFO]: Named entity class_1646['Norris'/73202, l='ServerLevel[world]', x=-1357.30, y=129.00, z=-765.70] died: Norris was slain by Eric
