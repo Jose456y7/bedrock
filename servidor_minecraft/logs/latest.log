@@ -981,3 +981,92 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:mang
 [05:15:06] [Server thread/INFO]: Created new backpack backup file for GingerCuban with unique ID travelersbackpack.bee_10.05.2025-05.15.06.dat
 [05:15:06] [Server thread/INFO]: Created new backpack backup file for GingerCuban with unique ID travelersbackpack.bee_10.05.2025-05.15.06.dat
 [05:15:06] [Server thread/INFO]: Your backpack has been placed at X: -1364 Y: 138 Z: -755
+[05:17:09] [Server thread/INFO]: GingerCuban lost connection: Timed out
+[05:17:09] [Server thread/INFO]: GingerCuban left the game
+[05:17:25] [Server thread/INFO]: GingerCuban[/192.168.195.184:50057] logged in with entity id 72737 at (-1345.8146171699168, 137.17675927506423, -752.6680302204956)
+[05:17:25] [Server thread/INFO]: Loading config from file...
+[05:17:25] [Server thread/INFO]: GingerCuban joined the game
+[05:17:35] [Server thread/WARN]: Matiasauto moved wrongly!
+[05:17:55] [Server thread/INFO]: GingerCuban lost connection: Timed out
+[05:17:55] [Server thread/INFO]: GingerCuban left the game
+[05:18:14] [Server thread/INFO]: GingerCuban[/192.168.195.184:50061] logged in with entity id 73021 at (-1345.8146171699168, 137.0, -752.6680302204956)
+[05:18:14] [Server thread/INFO]: Loading config from file...
+[05:18:14] [Server thread/INFO]: GingerCuban joined the game
+[05:24:05] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@78991a38, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
+	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
+	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-fe49b98b93c82b28.jar:?]
+	at net.minecraft.class_3244$1.handler$zka000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1767) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:121) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[05:24:05] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@3363802e, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
+	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
+	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-fe49b98b93c82b28.jar:?]
+	at net.minecraft.class_3244$1.handler$zka000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1755) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244$1.method_34220(class_3244.java) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824$class_5910.method_34213(class_2824.java:154) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:121) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[05:24:05] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@77e8a93a, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_17682()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:226) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
+	at tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:109) ~[carryon-fabric-1.21.1-2.2.2.11.jar:?]
+	at net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57) ~[fabric-events-interaction-v0-0.7+ba9dae0619-fe49b98b93c82b28.jar:?]
+	at net.minecraft.class_3244$1.handler$zka000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:1767) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244$1.method_34219(class_3244.java) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824$class_5909.method_34213(class_2824.java:124) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824.method_34209(class_2824.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12062(class_3244.java:1610) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824.method_12251(class_2824.java:61) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2824.method_11054(class_2824.java:15) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:121) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
