@@ -5235,5 +5235,17 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-05-10 04:22:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-05-10 04:20:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
