@@ -5977,6 +5977,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-05-10 04:46:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/remove_wolf_armor": {
     "criteria": {
       "remove_wolf_armor": "2025-05-10 04:10:31 +0000"
