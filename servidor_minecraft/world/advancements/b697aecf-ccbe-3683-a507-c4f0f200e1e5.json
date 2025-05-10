@@ -6153,5 +6153,77 @@
     },
     "done": true
   },
+  "another_furniture:recipes/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-10 22:02:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-10 22:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-05-10 21:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-10 22:02:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2025-05-10 22:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-10 22:02:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-10 22:02:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2025-05-10 22:02:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_stool": {
+    "criteria": {
+      "has_wool": "2025-05-10 22:02:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-05-10 22:02:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-10 22:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-10 22:02:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
