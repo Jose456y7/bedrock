@@ -6153,6 +6153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-05-10 21:57:54 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/red_sofa": {
     "criteria": {
       "has_wool": "2025-05-10 22:02:33 +0000"
@@ -6162,12 +6168,6 @@
   "another_furniture:recipes/red_curtain": {
     "criteria": {
       "has_wool": "2025-05-10 22:02:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2025-05-10 21:57:54 +0000"
     },
     "done": true
   },

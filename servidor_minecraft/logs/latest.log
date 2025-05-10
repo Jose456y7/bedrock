@@ -1,8 +1,8 @@
-[20:30:31] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[20:30:36] [main/WARN]: Warnings were found!
+[23:32:32] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[23:32:34] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[20:30:36] [main/INFO]: Loading 80 mods:
+[23:32:34] [main/INFO]: Loading 80 mods:
 	- amendments 1.21-1.2.24
 	- another_furniture 4.0.0
 	- architectury 13.0.8
@@ -97,36 +97,36 @@
 	- travelersbackpack 10.1.19
 	- treeharvester 9.1
 	- villagernames 8.2
-[20:30:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/bedrock/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:30:38] [main/INFO]: Compatibility level set to JAVA_17
-[20:30:38] [main/INFO]: Compatibility level set to JAVA_21
-[20:30:39] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:30:39] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:30:39] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:30:39] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:30:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:31:04] [main/INFO]: Loaded config amendments-common.json
-[20:31:08] [main/INFO]: Loading Collective version 8.3.
-[20:31:08] [main/INFO]: fabric loader environment detected
-[20:31:08] [main/INFO]: Constructing common components for diagonalblocks:main
-[20:31:08] [main/INFO]: Constructing common components for diagonalfences:main
-[20:31:09] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 129ms
-[20:31:09] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 135ms
-[20:31:09] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 372ms
-[20:31:13] [main/ERROR]: No data fixer registered for handcrafted
-[20:31:13] [main/INFO]: Constructing common components for puzzleslib:main
-[20:31:14] [main/ERROR]: No data fixer registered for 
-[20:31:17] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[20:31:17] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[20:31:17] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[20:31:17] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[20:31:17] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[20:31:18] [main/INFO]: Initialized block sets in 38ms
-[20:31:18] [main/ERROR]: No data fixer registered for falling_lantern
-[20:31:18] [main/INFO]: Loaded config moonlight-common.json
-[20:31:18] [main/INFO]: Initialized color sets in 35ms
-[20:31:18] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:31:24] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/acacia
+[23:32:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/bedrock/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:32:35] [main/INFO]: Compatibility level set to JAVA_17
+[23:32:35] [main/INFO]: Compatibility level set to JAVA_21
+[23:32:36] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:32:36] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:32:36] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:32:36] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:32:42] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23:33:14] [main/INFO]: Loaded config amendments-common.json
+[23:33:19] [main/INFO]: Loading Collective version 8.3.
+[23:33:19] [main/INFO]: fabric loader environment detected
+[23:33:20] [main/INFO]: Constructing common components for diagonalblocks:main
+[23:33:21] [main/INFO]: Constructing common components for diagonalfences:main
+[23:33:21] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 397ms
+[23:33:21] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 175ms
+[23:33:22] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 456ms
+[23:33:27] [main/ERROR]: No data fixer registered for handcrafted
+[23:33:27] [main/INFO]: Constructing common components for puzzleslib:main
+[23:33:28] [main/ERROR]: No data fixer registered for 
+[23:33:30] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[23:33:30] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[23:33:30] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[23:33:30] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[23:33:31] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[23:33:31] [main/INFO]: Initialized block sets in 42ms
+[23:33:31] [main/ERROR]: No data fixer registered for falling_lantern
+[23:33:31] [main/INFO]: Loaded config moonlight-common.json
+[23:33:32] [main/INFO]: Initialized color sets in 46ms
+[23:33:33] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/acacia
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:acacia_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -143,7 +143,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:acac
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[20:31:24] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/bamboo_mosaic
+[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/bamboo_mosaic
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bamboo_mosaic","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -160,7 +160,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bamb
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[20:31:24] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/cherry
+[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/cherry
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:cherry_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -177,7 +177,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:cher
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[20:31:24] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/bamboo
+[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/bamboo
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bamboo_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -194,7 +194,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bamb
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[20:31:24] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/birch
+[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/birch
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:birch_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -211,7 +211,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:birc
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[20:31:24] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/spruce
+[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/spruce
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:spruce_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -228,7 +228,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:spru
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[20:31:24] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/crimson
+[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/crimson
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:crimson_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -245,7 +245,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:crim
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[20:31:24] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/oak
+[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/oak
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:oak_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -262,7 +262,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:oak_
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[20:31:24] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/darkoak
+[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/darkoak
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:dark_oak_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -279,7 +279,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:dark
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[20:31:24] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/warped
+[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/warped
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:warped_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -296,7 +296,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:warp
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[20:31:24] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/jungle
+[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/jungle
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:jungle_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -313,7 +313,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:jung
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[20:31:24] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/mangrove
+[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/mangrove
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:mangrove_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -330,246 +330,34 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:mang
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[20:31:24] [main/INFO]: Loaded 2173 recipes
-[20:31:25] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[20:31:25] [main/INFO]: Loaded 2125 advancements
-[20:31:29] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 4.242 ms
-[20:31:29] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[20:31:29] [Server thread/INFO]: Loading properties
-[20:31:29] [Server thread/INFO]: Default game type: SURVIVAL
-[20:31:29] [Server thread/INFO]: Generating keypair
-[20:31:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:31:29] [Server thread/INFO]: Using epoll channel type
-[20:31:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:31:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:31:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:31:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:31:30] [Server thread/INFO]: Preparing level "world"
-[20:32:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 95%
-[20:32:15] [Server thread/INFO]: Time elapsed: 1650 ms
-[20:32:15] [Server thread/INFO]: Done (45.286s)! For help, type "help"
-[20:32:19] [Server thread/INFO]: GingerCuban[/192.168.195.184:52162] logged in with entity id 11 at (-1373.8735031799033, 128.0, -737.7433256316455)
-[20:32:19] [Server thread/INFO]: Loading config from file...
-[20:32:20] [Server thread/INFO]: GingerCuban joined the game
-[20:32:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
-[20:32:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9573ms or 191 ticks behind
-[20:34:19] [Server thread/INFO]: Matiasauto[/192.168.195.142:64605] logged in with entity id 1079 at (-1142.146086704757, 60.0, -917.937953410872)
-[20:34:19] [Server thread/INFO]: Loading config from file...
-[20:34:19] [Server thread/INFO]: Matiasauto joined the game
-[20:34:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8945ms or 178 ticks behind
-[20:34:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3373ms or 67 ticks behind
-[20:44:45] [Server thread/INFO]: [Not Secure] <Matiasauto> creo que voy a tener que ir a comer w
-[20:44:57] [Server thread/INFO]: [Not Secure] <GingerCuban> okei espero entonces
-[20:45:04] [Server thread/INFO]: [Not Secure] <Matiasauto> Buenop
-[20:45:13] [Server thread/INFO]: [Not Secure] <Matiasauto> de ahi vuelvo
-[20:45:15] [Server thread/INFO]: [Not Secure] <Matiasauto> tardo como ns
-[20:45:22] [Server thread/INFO]: [Not Secure] <Matiasauto> 30-20 mins
-[20:45:24] [Server thread/INFO]: [Not Secure] <GingerCuban> si amor, ntp tomate tu tiempo <3
-[20:45:28] [Server thread/INFO]: [Not Secure] <Matiasauto> o
-[20:45:30] [Server thread/INFO]: [Not Secure] <Matiasauto> bueno amor
-[20:45:34] [Server thread/INFO]: [Not Secure] <Matiasauto> te amo mucho
-[20:45:42] [Server thread/INFO]: [Not Secure] <GingerCuban> y yo te amo a tiiiii
-[20:45:52] [Server thread/INFO]: /advancement (grant|revoke)
-[20:45:52] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[20:45:52] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[20:45:52] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[20:45:52] [Server thread/INFO]: /clear [<targets>]
-[20:45:52] [Server thread/INFO]: /clone (<begin>|from)
-[20:45:52] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[20:45:52] [Server thread/INFO]: /data (merge|get|remove|modify)
-[20:45:52] [Server thread/INFO]: /datapack (enable|disable|list)
-[20:45:52] [Server thread/INFO]: /debug (start|stop|function)
-[20:45:52] [Server thread/INFO]: /defaultgamemode <gamemode>
-[20:45:52] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[20:45:52] [Server thread/INFO]: /effect (clear|give)
-[20:45:52] [Server thread/INFO]: /me <action>
-[20:45:52] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[20:45:52] [Server thread/INFO]: /experience (add|set|query)
-[20:45:52] [Server thread/INFO]: /xp -> experience
-[20:45:52] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[20:45:52] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[20:45:52] [Server thread/INFO]: /forceload (add|remove|query)
-[20:45:52] [Server thread/INFO]: /function <name> [<arguments>|with]
-[20:45:52] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[20:45:52] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[20:45:52] [Server thread/INFO]: /give <targets> <item> [<count>]
-[20:45:52] [Server thread/INFO]: /help [<command>]
-[20:45:52] [Server thread/INFO]: /item (replace|modify)
-[20:45:52] [Server thread/INFO]: /kick <targets> [<reason>]
-[20:45:52] [Server thread/INFO]: /kill [<targets>]
-[20:45:52] [Server thread/INFO]: /list [uuids]
-[20:45:52] [Server thread/INFO]: /locate (structure|biome|poi)
-[20:45:52] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[20:45:52] [Server thread/INFO]: /msg <targets> <message>
-[20:45:52] [Server thread/INFO]: /tell -> msg
-[20:45:52] [Server thread/INFO]: /w -> msg
-[20:45:52] [Server thread/INFO]: /particle <name> [<pos>]
-[20:45:52] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[20:45:52] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[20:45:52] [Server thread/INFO]: /random (value|roll|reset)
-[20:45:52] [Server thread/INFO]: /reload
-[20:45:52] [Server thread/INFO]: /recipe (give|take)
-[20:45:52] [Server thread/INFO]: /return (<value>|fail|run)
-[20:45:52] [Server thread/INFO]: /ride <target> (mount|dismount)
-[20:45:52] [Server thread/INFO]: /say <message>
-[20:45:52] [Server thread/INFO]: /schedule (function|clear)
-[20:45:52] [Server thread/INFO]: /scoreboard (objectives|players)
-[20:45:52] [Server thread/INFO]: /seed
-[20:45:52] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[20:45:52] [Server thread/INFO]: /spawnpoint [<targets>]
-[20:45:52] [Server thread/INFO]: /setworldspawn [<pos>]
-[20:45:52] [Server thread/INFO]: /spectate [<target>]
-[20:45:52] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[20:45:52] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[20:45:52] [Server thread/INFO]: /summon <entity> [<pos>]
-[20:45:52] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[20:45:52] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[20:45:52] [Server thread/INFO]: /teammsg <message>
-[20:45:52] [Server thread/INFO]: /tm -> teammsg
-[20:45:52] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[20:45:52] [Server thread/INFO]: /tp -> teleport
-[20:45:52] [Server thread/INFO]: /tellraw <targets> <message>
-[20:45:52] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[20:45:52] [Server thread/INFO]: /time (set|add|query)
-[20:45:52] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[20:45:52] [Server thread/INFO]: /trigger <objective> [add|set]
-[20:45:52] [Server thread/INFO]: /weather (clear|rain|thunder)
-[20:45:52] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[20:45:52] [Server thread/INFO]: /jfr (start|stop)
-[20:45:52] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[20:45:52] [Server thread/INFO]: /banlist [ips|players]
-[20:45:52] [Server thread/INFO]: /ban <targets> [<reason>]
-[20:45:52] [Server thread/INFO]: /deop <targets>
-[20:45:52] [Server thread/INFO]: /op <targets>
-[20:45:52] [Server thread/INFO]: /pardon <targets>
-[20:45:52] [Server thread/INFO]: /pardon-ip <target>
-[20:45:52] [Server thread/INFO]: /perf (start|stop)
-[20:45:52] [Server thread/INFO]: /save-all [flush]
-[20:45:52] [Server thread/INFO]: /save-off
-[20:45:52] [Server thread/INFO]: /save-on
-[20:45:52] [Server thread/INFO]: /setidletimeout <minutes>
-[20:45:52] [Server thread/INFO]: /stop
-[20:45:52] [Server thread/INFO]: /transfer <hostname> [<port>]
-[20:45:52] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[20:45:52] [Server thread/INFO]: /carryon (debug|clear|place)
-[20:45:52] [Server thread/INFO]: /coro config common (reload|save|get|set)
-[20:45:52] [Server thread/INFO]: /tb (access|remove|clear|restore|unpack)
-[20:45:52] [Server thread/INFO]: /villagernames [unname|name|rename]
-[20:45:52] [Server thread/INFO]: /cmdconfig
-[20:46:20] [Server thread/INFO]: [Not Secure] [Server] wuaja que puto es ver el sv desde la wea de comandos
-[20:46:28] [Server thread/INFO]: [Not Secure] <GingerCuban> tf
-[20:46:39] [Server thread/INFO]: [Not Secure] <GingerCuban> XDDDDD
-[20:46:46] [Server thread/INFO]: [Not Secure] [Server] ola soi el server y i hate niggers
-[20:47:03] [Server thread/INFO]: [Not Secure] <GingerCuban> NIGGA THE SERVER IS TALKING OU SHET
-[20:47:13] [Server thread/INFO]: [Not Secure] <GingerCuban> :scar e:
-[20:47:38] [Server thread/INFO]: [Not Secure] <Matiasauto> ya w
-[20:47:41] [Server thread/INFO]: [Not Secure] <Matiasauto> ahora si me voy a comer
-[20:47:43] [Server thread/INFO]: [Not Secure] <Matiasauto> bye
-[20:47:45] [Server thread/INFO]: [Not Secure] <GingerCuban> okei ve
-[20:47:47] [Server thread/INFO]: [Not Secure] <GingerCuban> bai
-[20:51:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[20:51:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
-[20:53:12] [Server thread/INFO]: Villager class_1646['Chas'/39, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died, message: 'Chas was squished too much'
-[20:53:12] [Server thread/INFO]: Named entity class_1646['Chas'/39, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died: Chas was squished too much
-[20:53:20] [Server thread/WARN]: GingerCuban moved too quickly! -9.889483555123888,5.9435015761096395,13.994347316948847
-[20:57:30] [Server thread/WARN]: GingerCuban moved too quickly! 8.436479855035714,1.9469112661528243,-15.52903481488812
-[21:21:09] [Server thread/INFO]: GingerCuban lost connection: Disconnected
-[21:21:09] [Server thread/INFO]: GingerCuban left the game
-[21:21:36] [Server thread/INFO]: GingerCuban[/192.168.195.184:52620] logged in with entity id 19237 at (-1396.209610820832, 128.0, -777.855434065835)
-[21:21:36] [Server thread/INFO]: Loading config from file...
-[21:21:36] [Server thread/INFO]: GingerCuban joined the game
-[21:23:47] [Server thread/INFO]: Villager class_1646['Mariela'/19429, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died, message: 'Mariela was squished too much'
-[21:23:47] [Server thread/INFO]: Named entity class_1646['Mariela'/19429, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died: Mariela was squished too much
-[21:25:51] [Server thread/INFO]: valzx_RV[/192.168.195.143:49755] logged in with entity id 21044 at (-1375.5, 133.75099999403955, -779.5)
-[21:25:51] [Server thread/INFO]: Loading config from file...
-[21:25:51] [Server thread/INFO]: valzx_RV joined the game
-[21:26:10] [Server thread/INFO]: Matiasauto lost connection: Disconnected
-[21:26:10] [Server thread/INFO]: Matiasauto left the game
-[21:26:12] [Server thread/INFO]: [Not Secure] <GingerCuban> v en
-[21:27:14] [Server thread/INFO]: [Not Secure] <GingerCuban> matias lo talo..........................
-[21:27:31] [Server thread/INFO]: [Not Secure] <GingerCuban> the lorax lore
-[21:27:47] [Server thread/INFO]: [Not Secure] <GingerCuban> ye
-[21:27:55] [Server thread/INFO]: [Not Secure] <GingerCuban> my horse man
-[21:28:02] [Server thread/INFO]: [Not Secure] <GingerCuban> ahi donde siempre
-[21:29:26] [Server thread/INFO]: [Not Secure] <GingerCuban> esos aldeanos son otros, los de abajo los mato el mati XDDDDDDDDDD
-[21:30:04] [Server thread/INFO]: [Not Secure] <GingerCuban> mi ra
-[21:30:21] [Server thread/INFO]: [Not Secure] <GingerCuban> te agachas y usas la hacha
-[21:31:35] [Server thread/INFO]: [Not Secure] <GingerCuban> XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
-[21:31:48] [Server thread/INFO]: [Not Secure] <GingerCuban> amiguito flota
-[21:31:59] [Server thread/INFO]: [Not Secure] <GingerCuban> tf
-[21:32:03] [Server thread/INFO]: [Not Secure] <GingerCuban> tengo lagasos
-[21:32:11] [Server thread/INFO]: GingerCuban lost connection: Timed out
-[21:32:11] [Server thread/INFO]: GingerCuban left the game
-[21:32:25] [Server thread/INFO]: GingerCuban[/192.168.195.184:52732] logged in with entity id 22682 at (-1392.0468930435015, 129.0, -778.2706410029831)
-[21:32:25] [Server thread/INFO]: Loading config from file...
-[21:32:25] [Server thread/INFO]: GingerCuban joined the game
-[21:33:49] [Server thread/INFO]: [Not Secure] <GingerCuban> bro va a explotar
-[21:34:43] [Server thread/INFO]: [Not Secure] <GingerCuban> yo jugando mc a los graficos mas minimos:
-[21:36:53] [Server thread/INFO]: [Not Secure] <GingerCuban> eso le paso a matias ayer XDDDDDDDDDD
-[21:39:28] [Server thread/INFO]: [Not Secure] <GingerCuban> PI G
-[21:39:34] [Server thread/INFO]: [Not Secure] <GingerCuban> XDDDDDDDDDDDDDDD
-[21:40:19] [Server thread/INFO]: [Not Secure] <GingerCuban> AJSAJDHAJ
-[21:41:13] [Server thread/INFO]: [Not Secure] <GingerCuban> ayud
-[21:41:21] [Server thread/INFO]: [Not Secure] <GingerCuban> en el nther pero me perd i
-[21:41:30] [Server thread/INFO]: [Not Secure] <GingerCuban> no lo tengo................
-[21:41:37] [Server thread/INFO]: [Not Secure] <GingerCuban> si s
-[21:42:10] [Server thread/INFO]: [Not Secure] <valzx_RV> xaero-waypoint:pusiportal:P:-189:96:-86:4:false:0:Internal-the-nether-waypoints
-[21:42:17] [Server thread/INFO]: [Not Secure] <GingerCuban> o
-[21:42:22] [Server thread/INFO]: [Not Secure] <GingerCuban> GRACIA S
-[21:43:27] [Server thread/INFO]: [Not Secure] <GingerCuban> no w
-[21:43:30] [Server thread/INFO]: [Not Secure] <GingerCuban> ni idea d eso
-[21:43:56] [Server thread/INFO]: [Not Secure] <GingerCuban> XDDDDDDDDDDDDDD
-[21:44:15] [Server thread/INFO]: [Not Secure] <valzx_RV> xaero-waypoint:el prostibulo:E:-1386:129:-779:2:false:0:Internal-overworld-waypoints
-[21:44:20] [Server thread/INFO]: [Not Secure] <GingerCuban> XDDDDDDDDDDDD
-[21:44:32] [Server thread/INFO]: GingerCuban tried to swim in lava to escape Enderman
-[21:44:32] [Server thread/INFO]: Created new backpack backup file for GingerCuban with unique ID travelersbackpack.bee_10.05.2025-21.44.32.dat
-[21:44:32] [Server thread/INFO]: Created new backpack backup file for GingerCuban with unique ID travelersbackpack.bee_10.05.2025-21.44.32.dat
-[21:44:32] [Server thread/INFO]: Your backpack has been placed at X: -152 Y: 50 Z: -50
-[21:44:38] [Server thread/INFO]: Villager class_1646['Tatiana'/27346, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died, message: 'Tatiana was squished too much'
-[21:44:38] [Server thread/INFO]: Named entity class_1646['Tatiana'/27346, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died: Tatiana was squished too much
-[21:44:41] [Server thread/INFO]: [Not Secure] <GingerCuban> MIS COSAS
-[21:44:52] [Server thread/INFO]: [Not Secure] <GingerCuban> MIS ELITRAS
-[21:45:03] [Server thread/INFO]: [Not Secure] <GingerCuban> MIS MOCHILAS
-[21:45:26] [Server thread/INFO]: [Not Secure] <GingerCuban> ME UMPUJO EL NEGRO ESE A LA NLAVA
-[21:45:41] [Server thread/INFO]: [Not Secure] <GingerCuban> me meti otra ve z
-[21:46:32] [Server thread/INFO]: GingerCuban tried to swim in lava
-[21:46:39] [Server thread/INFO]: [Not Secure] <GingerCuban> CARAJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[21:46:57] [Server thread/INFO]: [Not Secure] <GingerCuban> Y MIS COSAS YA ESTABAN AHIII
-[21:48:00] [Server thread/WARN]: GingerCuban moved too quickly! -0.6336994411123555,-10.201788143051402,0.5916216885107204
-[21:48:01] [Server thread/INFO]: GingerCuban fell from a high place
-[21:48:06] [Server thread/INFO]: [Not Secure] <GingerCuban> ahi
-[21:48:24] [Server thread/INFO]: [Not Secure] <GingerCuban> dime que estan las elitras...................
-[21:49:05] [Server thread/INFO]: Matiasauto[/192.168.195.142:52616] logged in with entity id 32066 at (-1101.4789058288777, 77.0, -896.3000000119209)
-[21:49:05] [Server thread/INFO]: Loading config from file...
-[21:49:05] [Server thread/INFO]: Matiasauto joined the game
-[21:49:17] [Server thread/INFO]: [Not Secure] <GingerCuban> NO WTF TENIA MIS ELITRAS
-[21:49:35] [Server thread/INFO]: [Not Secure] <GingerCuban> ME VOY A MATAR
-[21:49:55] [Server thread/INFO]: [Not Secure] <GingerCuban> jelp
-[21:50:06] [Server thread/INFO]: [Not Secure] <GingerCuban> bro estoy aqui
-[21:50:33] [Server thread/INFO]: [Not Secure] <GingerCuban> mis cosas.........................................................
-[21:50:56] [Server thread/INFO]: [Not Secure] <GingerCuban> aun faltan...............
-[21:51:13] [Server thread/INFO]: [Not Secure] <GingerCuban> :sob:
-[21:51:44] [Server thread/INFO]: [Not Secure] <GingerCuban> :(
-[21:52:05] [Server thread/INFO]: [Not Secure] <GingerCuban> al matias le va a dar el doble
-[21:52:12] [Server thread/INFO]: [Not Secure] <GingerCuban> el me consiguio mis cosas XDS
-[21:52:26] [Server thread/INFO]: [Not Secure] <GingerCuban> perdon matias
-[21:52:52] [Server thread/INFO]: [Not Secure] <GingerCuban> si :'v
-[21:53:16] [Server thread/INFO]: [Not Secure] <GingerCuban> xaero-waypoint:pusiportal:P:-189:96:-86:4:false:0:Internal-the-nether-waypoints
-[21:54:16] [Server thread/INFO]: [Not Secure] <GingerCuban> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[21:54:31] [Server thread/INFO]: [Not Secure] <GingerCuban> i ned bloques
-[21:54:52] [Server thread/INFO]: [Not Secure] <GingerCuban> WN TODO ESTO POR QUE QUERIA CONSEGUIR CHAMPIÑONES :SOB:
-[21:55:11] [Server thread/INFO]: [Not Secure] <GingerCuban> jelp
-[21:56:25] [Server thread/INFO]: [Not Secure] <GingerCuban> :sob:
-[21:56:38] [Server thread/INFO]: [Not Secure] <GingerCuban> :'v
-[21:56:41] [Server thread/INFO]: [Not Secure] <GingerCuban> si......................
-[21:57:05] [Server thread/INFO]: [Not Secure] <GingerCuban> la armadura, el arco, mi pic o
-[21:58:10] [Server thread/INFO]: [Not Secure] <GingerCuban> garcias
-[21:58:40] [Server thread/INFO]: [Not Secure] <GingerCuban> cubana no dura 3 minutos en el nether
-[21:58:48] [Server thread/INFO]: [Not Secure] <GingerCuban> :sob:
-[21:58:56] [Server thread/INFO]: [Not Secure] <GingerCuban> sorry matiascar
-[22:01:37] [Server thread/INFO]: [Not Secure] <GingerCuban> matias donde conseguiste la tinta negr a
-[22:02:06] [Server thread/INFO]: [Not Secure] <GingerCuban> bitc h
+[23:33:40] [main/INFO]: Loaded 2173 recipes
+[23:33:41] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[23:33:41] [main/INFO]: Loaded 2125 advancements
+[23:33:47] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 3.555 ms
+[23:33:47] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[23:33:47] [Server thread/INFO]: Loading properties
+[23:33:47] [Server thread/INFO]: Default game type: SURVIVAL
+[23:33:47] [Server thread/INFO]: Generating keypair
+[23:33:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:33:48] [Server thread/INFO]: Using epoll channel type
+[23:33:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:33:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:33:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:33:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:33:49] [Server thread/INFO]: Preparing level "world"
+[23:34:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[23:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[23:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[23:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 79%
+[23:34:54] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[23:34:54] [Server thread/INFO]: Time elapsed: 3737 ms
+[23:34:54] [Server thread/INFO]: Done (65.315s)! For help, type "help"
+[23:36:05] [Server thread/INFO]: GingerCuban[/192.168.195.184:52330] logged in with entity id 11 at (-1380.8597141808054, 146.0, -773.4824507198665)
+[23:36:05] [Server thread/INFO]: Loading config from file...
+[23:36:05] [Server thread/INFO]: GingerCuban joined the game
+[23:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3175ms or 63 ticks behind
+[23:36:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7154ms or 143 ticks behind
