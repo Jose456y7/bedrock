@@ -6284,6 +6284,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-10 00:01:34 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/magenta_sleeping_bag": {
     "criteria": {
       "has_magenta_wool": "2025-05-09 23:06:08 +0000"
@@ -6323,6 +6329,12 @@
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_magenta_wool": "2025-05-09 23:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-05-10 00:01:41 +0000"
     },
     "done": true
   },
