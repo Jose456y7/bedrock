@@ -373,3 +373,5 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:mang
 [16:43:03] [Server thread/INFO]: GingerCuban[/192.168.195.184:52226] logged in with entity id 5074 at (-1381.4420452484458, 146.0, -781.3928832929935)
 [16:43:03] [Server thread/INFO]: Loading config from file...
 [16:43:03] [Server thread/INFO]: GingerCuban joined the game
+[16:47:25] [Server thread/WARN]: GingerCuban moved wrongly!
+[16:49:51] [Server thread/WARN]: GingerCuban moved too quickly! -6.7887029219839405,-2.24390326399984,16.342794501386265
