@@ -1070,3 +1070,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:702) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[05:55:05] [Server thread/INFO]: Matiasauto lost connection: Disconnected
+[05:55:05] [Server thread/INFO]: Matiasauto left the game
