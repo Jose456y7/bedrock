@@ -369,3 +369,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:mang
 [16:17:34] [Server thread/INFO]: Matiasauto[/192.168.195.142:54111] logged in with entity id 11 at (-1382.3349327912824, 146.0, -782.4472960910913)
 [16:17:34] [Server thread/INFO]: Loading config from file...
 [16:17:34] [Server thread/INFO]: Matiasauto joined the game
+[16:39:39] [Server thread/INFO]: [Not Secure] <Matiasauto> 153
+[16:43:03] [Server thread/INFO]: GingerCuban[/192.168.195.184:52226] logged in with entity id 5074 at (-1381.4420452484458, 146.0, -781.3928832929935)
+[16:43:03] [Server thread/INFO]: Loading config from file...
+[16:43:03] [Server thread/INFO]: GingerCuban joined the game
