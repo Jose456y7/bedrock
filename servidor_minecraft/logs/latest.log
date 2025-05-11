@@ -1,8 +1,8 @@
-[23:32:32] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[23:32:34] [main/WARN]: Warnings were found!
+[04:42:26] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[04:42:31] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[23:32:34] [main/INFO]: Loading 80 mods:
+[04:42:31] [main/INFO]: Loading 80 mods:
 	- amendments 1.21-1.2.24
 	- another_furniture 4.0.0
 	- architectury 13.0.8
@@ -97,36 +97,36 @@
 	- travelersbackpack 10.1.19
 	- treeharvester 9.1
 	- villagernames 8.2
-[23:32:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/bedrock/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[23:32:35] [main/INFO]: Compatibility level set to JAVA_17
-[23:32:35] [main/INFO]: Compatibility level set to JAVA_21
-[23:32:36] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:32:36] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:32:36] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:32:36] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[23:32:42] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[23:33:14] [main/INFO]: Loaded config amendments-common.json
-[23:33:19] [main/INFO]: Loading Collective version 8.3.
-[23:33:19] [main/INFO]: fabric loader environment detected
-[23:33:20] [main/INFO]: Constructing common components for diagonalblocks:main
-[23:33:21] [main/INFO]: Constructing common components for diagonalfences:main
-[23:33:21] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 397ms
-[23:33:21] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 175ms
-[23:33:22] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 456ms
-[23:33:27] [main/ERROR]: No data fixer registered for handcrafted
-[23:33:27] [main/INFO]: Constructing common components for puzzleslib:main
-[23:33:28] [main/ERROR]: No data fixer registered for 
-[23:33:30] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[23:33:30] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[23:33:30] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[23:33:30] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[23:33:31] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[23:33:31] [main/INFO]: Initialized block sets in 42ms
-[23:33:31] [main/ERROR]: No data fixer registered for falling_lantern
-[23:33:31] [main/INFO]: Loaded config moonlight-common.json
-[23:33:32] [main/INFO]: Initialized color sets in 46ms
-[23:33:33] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/acacia
+[04:42:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/bedrock/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:42:32] [main/INFO]: Compatibility level set to JAVA_17
+[04:42:32] [main/INFO]: Compatibility level set to JAVA_21
+[04:42:33] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:42:33] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:42:33] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:42:33] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:42:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04:42:53] [main/INFO]: Loaded config amendments-common.json
+[04:42:57] [main/INFO]: Loading Collective version 8.3.
+[04:42:57] [main/INFO]: fabric loader environment detected
+[04:42:57] [main/INFO]: Constructing common components for diagonalblocks:main
+[04:42:58] [main/INFO]: Constructing common components for diagonalfences:main
+[04:42:58] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 64ms
+[04:42:58] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 72ms
+[04:42:58] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 178ms
+[04:43:02] [main/ERROR]: No data fixer registered for handcrafted
+[04:43:02] [main/INFO]: Constructing common components for puzzleslib:main
+[04:43:03] [main/ERROR]: No data fixer registered for 
+[04:43:05] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[04:43:05] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[04:43:05] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[04:43:05] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[04:43:05] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[04:43:06] [main/INFO]: Initialized block sets in 261ms
+[04:43:06] [main/ERROR]: No data fixer registered for falling_lantern
+[04:43:06] [main/INFO]: Loaded config moonlight-common.json
+[04:43:06] [main/INFO]: Initialized color sets in 71ms
+[04:43:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:43:13] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/acacia
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:acacia_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -143,7 +143,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:acac
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/bamboo_mosaic
+[04:43:14] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/bamboo_mosaic
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bamboo_mosaic","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -160,7 +160,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bamb
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/cherry
+[04:43:14] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/cherry
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:cherry_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -177,7 +177,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:cher
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/bamboo
+[04:43:14] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/bamboo
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bamboo_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -194,7 +194,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bamb
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/birch
+[04:43:14] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/birch
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:birch_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -211,7 +211,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:birc
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/spruce
+[04:43:14] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/spruce
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:spruce_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -228,7 +228,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:spru
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/crimson
+[04:43:14] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/crimson
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:crimson_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -245,7 +245,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:crim
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/oak
+[04:43:14] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/oak
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:oak_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -262,7 +262,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:oak_
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/darkoak
+[04:43:14] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/darkoak
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:dark_oak_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -279,7 +279,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:dark
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/warped
+[04:43:14] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/warped
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:warped_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -296,7 +296,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:warp
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/jungle
+[04:43:14] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/jungle
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:jungle_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -313,7 +313,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:jung
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[23:33:40] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/mangrove
+[04:43:14] [main/ERROR]: Parsing error loading recipe woodcutter:slabs_to_planks/mangrove
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:mangrove_planks","count":1}]
 	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -330,34 +330,31 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:mang
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[23:33:40] [main/INFO]: Loaded 2173 recipes
-[23:33:41] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
-[23:33:41] [main/INFO]: Loaded 2125 advancements
-[23:33:47] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 3.555 ms
-[23:33:47] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[23:33:47] [Server thread/INFO]: Loading properties
-[23:33:47] [Server thread/INFO]: Default game type: SURVIVAL
-[23:33:47] [Server thread/INFO]: Generating keypair
-[23:33:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:33:48] [Server thread/INFO]: Using epoll channel type
-[23:33:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:33:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:33:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:33:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:33:49] [Server thread/INFO]: Preparing level "world"
-[23:34:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[23:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[23:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[23:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 79%
-[23:34:54] [Worker-Main-1/INFO]: Preparing spawn area: 83%
-[23:34:54] [Server thread/INFO]: Time elapsed: 3737 ms
-[23:34:54] [Server thread/INFO]: Done (65.315s)! For help, type "help"
-[23:36:05] [Server thread/INFO]: GingerCuban[/192.168.195.184:52330] logged in with entity id 11 at (-1380.8597141808054, 146.0, -773.4824507198665)
-[23:36:05] [Server thread/INFO]: Loading config from file...
-[23:36:05] [Server thread/INFO]: GingerCuban joined the game
-[23:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3175ms or 63 ticks behind
-[23:36:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7154ms or 143 ticks behind
+[04:43:14] [main/INFO]: Loaded 2173 recipes
+[04:43:14] [main/ERROR]: Couldn't load advancements: [minecraft:wander_add_map, minecraft:give_quest_trader_trade]
+[04:43:14] [main/INFO]: Loaded 2125 advancements
+[04:43:19] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.680 ms
+[04:43:19] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[04:43:19] [Server thread/INFO]: Loading properties
+[04:43:19] [Server thread/INFO]: Default game type: SURVIVAL
+[04:43:19] [Server thread/INFO]: Generating keypair
+[04:43:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:43:19] [Server thread/INFO]: Using epoll channel type
+[04:43:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:43:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:43:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:43:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:43:20] [Server thread/INFO]: Preparing level "world"
+[04:43:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 63%
+[04:44:01] [Server thread/INFO]: Time elapsed: 2187 ms
+[04:44:01] [Server thread/INFO]: Done (41.928s)! For help, type "help"
+[04:47:26] [Server thread/INFO]: GingerCuban[/192.168.195.184:55476] logged in with entity id 11 at (-1387.302626315402, 129.0, -771.1605689191388)
+[04:47:26] [Server thread/INFO]: Loading config from file...
+[04:47:26] [Server thread/INFO]: GingerCuban joined the game
+[04:48:02] [Server thread/INFO]: Villager class_1646['Lakita'/206, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died, message: 'Lakita was squished too much'
+[04:48:02] [Server thread/INFO]: Named entity class_1646['Lakita'/206, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died: Lakita was squished too much
