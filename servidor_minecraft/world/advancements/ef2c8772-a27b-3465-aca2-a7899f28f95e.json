@@ -7068,6 +7068,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-05-11 05:36:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/light_gray_cushion": {
     "criteria": {
       "has_light_gray_cushion": "2025-05-11 06:41:36 +0000"
@@ -7080,39 +7086,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/hay_smithing": {
-    "criteria": {
-      "has_hay": "2025-05-11 07:04:26 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/wolf_smithing": {
-    "criteria": {
-      "has_wolf": "2025-05-11 07:03:05 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_light_gray_sheet": "2025-05-11 06:41:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-05-11 05:36:22 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon_smithing": {
-    "criteria": {
-      "has_melon": "2025-05-11 06:58:56 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cactus_smithing": {
-    "criteria": {
-      "has_cactus": "2025-05-11 06:55:24 +0000"
     },
     "done": true
   },
@@ -7122,9 +7098,543 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus_smithing": {
+    "criteria": {
+      "has_cactus": "2025-05-11 06:55:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon_smithing": {
+    "criteria": {
+      "has_melon": "2025-05-11 06:58:56 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cow_smithing": {
     "criteria": {
       "has_cow": "2025-05-11 06:59:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf_smithing": {
+    "criteria": {
+      "has_wolf": "2025-05-11 07:03:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay_smithing": {
+    "criteria": {
+      "has_hay": "2025-05-11 07:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-11 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-05-11 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-11 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-05-11 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pink_sheet": {
+    "criteria": {
+      "has_pink_sheet": "2025-05-11 23:39:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/lime_cushion": {
+    "criteria": {
+      "has_lime_cushion": "2025-05-11 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-05-11 23:39:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pink_cushion": {
+    "criteria": {
+      "has_pink_cushion": "2025-05-11 23:39:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/lime_sheet": {
+    "criteria": {
+      "has_lime_sheet": "2025-05-11 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/orange_cushion": {
+    "criteria": {
+      "has_orange_cushion": "2025-05-11 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-11 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/lime_sleeping_bag": {
+    "criteria": {
+      "has_lime_wool": "2025-05-11 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-05-11 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2025-05-11 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-11 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/orange_sleeping_bag": {
+    "criteria": {
+      "has_orange_wool": "2025-05-11 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-05-11 23:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-11 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-05-11 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-05-11 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/pink_sleeping_bag": {
+    "criteria": {
+      "has_pink_wool": "2025-05-11 23:39:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2025-05-11 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-11 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-05-11 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2025-05-11 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-05-11 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-05-11 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2025-05-11 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cushion": {
+    "criteria": {
+      "has_blue_cushion": "2025-05-11 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2025-05-11 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-05-11 23:39:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-05-11 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-05-11 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_blue_sheet": "2025-05-11 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-11 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-05-11 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-05-11 23:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2025-05-11 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-05-11 23:39:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-05-11 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-05-11 23:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-05-11 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/orange_sheet": {
+    "criteria": {
+      "has_orange_sheet": "2025-05-11 23:39:06 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_lamp": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-05-11 23:39:02 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-05-11 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_stool": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-11 23:39:11 +0000"
     },
     "done": true
   },
