@@ -358,3 +358,13 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:mang
 [04:47:26] [Server thread/INFO]: GingerCuban joined the game
 [04:48:02] [Server thread/INFO]: Villager class_1646['Lakita'/206, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died, message: 'Lakita was squished too much'
 [04:48:02] [Server thread/INFO]: Named entity class_1646['Lakita'/206, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died: Lakita was squished too much
+[05:11:36] [Server thread/INFO]: Villager class_1646['Markus'/212, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died, message: 'Markus was squished too much'
+[05:11:36] [Server thread/INFO]: Named entity class_1646['Markus'/212, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died: Markus was squished too much
+[05:22:29] [Server thread/INFO]: Villager class_1646['Lesley'/213, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died, message: 'Lesley was squished too much'
+[05:22:29] [Server thread/INFO]: Named entity class_1646['Lesley'/213, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died: Lesley was squished too much
+[05:22:58] [Server thread/INFO]: Villager class_1646['Usha'/214, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died, message: 'Usha was squished too much'
+[05:22:58] [Server thread/INFO]: Named entity class_1646['Usha'/214, l='ServerLevel[world]', x=-1386.70, y=123.00, z=-724.70] died: Usha was squished too much
+[05:31:26] [Server thread/INFO]: [Not Secure] <GingerCuban> me mato hoy chavales , en directo
+[05:32:23] [Server thread/INFO]: Matiasauto[/192.168.195.142:65270] logged in with entity id 10751 at (-1389.5660586619033, 146.0, -774.8026160849469)
+[05:32:23] [Server thread/INFO]: Loading config from file...
+[05:32:23] [Server thread/INFO]: Matiasauto joined the game
