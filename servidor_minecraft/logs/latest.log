@@ -24,3 +24,7 @@
 [01:10:12] [Server thread/WARN]: Thexperson2 moved too quickly! -17.27425147412623,-1.83870238906961,6.47605208575942
 [01:11:28] [Server thread/INFO]: Villager class_1646['Sam'/15193, l='ServerLevel[world]', x=-1386.30, y=123.00, z=-724.70] died, message: 'Sam was squished too much'
 [01:11:28] [Server thread/INFO]: Named entity class_1646['Sam'/15193, l='ServerLevel[world]', x=-1386.30, y=123.00, z=-724.70] died: Sam was squished too much
+[01:21:02] [Server thread/INFO]: GingerCuban[/192.168.195.184:57938] logged in with entity id 52143 at (-1376.0780075711298, 129.0, -788.7843505251615)
+[01:21:02] [Server thread/INFO]: Loading config from file...
+[01:21:02] [Server thread/INFO]: GingerCuban joined the game
+[01:22:02] [Server thread/WARN]: GingerCuban moved too quickly! -2.0731799306354333,0.0,-9.876324229701595

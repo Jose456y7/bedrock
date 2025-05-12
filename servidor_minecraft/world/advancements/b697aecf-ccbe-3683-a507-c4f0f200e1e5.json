@@ -6345,21 +6345,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/squid_smithing": {
+  "travelersbackpack:recipes/misc/cow_smithing": {
     "criteria": {
-      "has_squid": "2025-05-11 07:07:48 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/emerald_smithing": {
-    "criteria": {
-      "has_emerald": "2025-05-11 07:08:07 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/creeper_smithing": {
-    "criteria": {
-      "has_creeper": "2025-05-11 07:08:02 +0000"
+      "has_cow": "2025-05-11 07:05:22 +0000"
     },
     "done": true
   },
@@ -6369,21 +6357,33 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ocelot_smithing": {
-    "criteria": {
-      "has_ocelot": "2025-05-11 07:07:54 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/cactus_smithing": {
     "criteria": {
       "has_cactus": "2025-05-11 07:05:28 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cow_smithing": {
+  "travelersbackpack:recipes/misc/squid_smithing": {
     "criteria": {
-      "has_cow": "2025-05-11 07:05:22 +0000"
+      "has_squid": "2025-05-11 07:07:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot_smithing": {
+    "criteria": {
+      "has_ocelot": "2025-05-11 07:07:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper_smithing": {
+    "criteria": {
+      "has_creeper": "2025-05-11 07:08:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2025-05-11 07:08:07 +0000"
     },
     "done": true
   },

@@ -5277,6 +5277,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-05-12 01:22:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_counter": {
     "criteria": {
       "has_cherry_counter": "2025-05-12 00:44:07 +0000"
@@ -5310,6 +5316,12 @@
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-05-12 00:44:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-05-12 01:22:38 +0000"
     },
     "done": true
   },
@@ -5361,9 +5373,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-05-12 01:22:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-05-12 01:22:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-05-12 01:22:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_fancy_bed": {
     "criteria": {
       "has_dark_oak_fancy_bed": "2025-05-12 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-05-12 01:22:38 +0000"
     },
     "done": true
   },
@@ -5388,6 +5424,12 @@
   "handcrafted:recipes/misc/blackstone_pillar_trim": {
     "criteria": {
       "has_blackstone_pillar_trim": "2025-05-12 00:05:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-05-12 01:22:38 +0000"
     },
     "done": true
   },
@@ -5430,6 +5472,12 @@
   "handcrafted:recipes/misc/oak_couch": {
     "criteria": {
       "has_oak_couch": "2025-05-12 00:44:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-05-12 01:22:38 +0000"
     },
     "done": true
   },
@@ -5481,6 +5529,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-05-12 01:22:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_dining_bench": {
     "criteria": {
       "has_cherry_dining_bench": "2025-05-12 00:44:07 +0000"
@@ -5490,6 +5544,12 @@
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-05-12 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-05-12 01:22:38 +0000"
     },
     "done": true
   },
@@ -5511,6 +5571,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-05-12 01:22:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_desk": "2025-05-12 00:22:05 +0000"
@@ -5529,15 +5595,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-05-12 01:22:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2025-05-12 00:22:05 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-05-12 01:22:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_cupboard": {
     "criteria": {
       "has_oak_cupboard": "2025-05-12 00:44:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-05-12 01:22:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2025-05-12 01:22:38 +0000"
     },
     "done": true
   },
@@ -5589,9 +5679,27 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2025-05-12 01:22:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-05-12 01:22:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/skeleton_horse_trophy": {
     "criteria": {
       "has_skeleton_horse_trophy": "2025-05-12 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-05-12 01:22:38 +0000"
     },
     "done": true
   },
