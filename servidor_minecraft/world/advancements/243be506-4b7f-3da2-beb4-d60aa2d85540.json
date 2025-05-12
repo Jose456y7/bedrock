@@ -4304,19 +4304,13 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/hay_smithing": {
-    "criteria": {
-      "has_hay": "2025-05-10 21:48:41 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/wolf_smithing": {
-    "criteria": {
-      "has_wolf": "2025-05-10 21:48:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-10 21:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-05-10 21:30:13 +0000"
     },
@@ -4328,15 +4322,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "travelersbackpack:recipes/misc/wolf_smithing": {
     "criteria": {
-      "has_log": "2025-05-10 21:30:13 +0000"
+      "has_wolf": "2025-05-10 21:48:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay_smithing": {
+    "criteria": {
+      "has_hay": "2025-05-10 21:48:41 +0000"
     },
     "done": true
   },
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_trophy": "2025-05-10 21:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-12 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-12 00:10:39 +0000"
     },
     "done": true
   },
