@@ -5235,15 +5235,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-05-10 04:20:27 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_oven": "2025-05-10 04:22:45 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/phantom_trophy": {
+  "travelersbackpack:recipes/misc/coal_smithing": {
     "criteria": {
-      "has_phantom_trophy": "2025-05-10 04:20:27 +0000"
+      "has_coal": "2025-05-11 23:52:54 +0000"
     },
     "done": true
   },
