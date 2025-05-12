@@ -19,3 +19,8 @@
 [00:55:49] [Server thread/INFO]: [Not Secure] <Thexperson2> -1426.58 158.00 -795.35 -72.71 33.64
 [00:56:00] [Server thread/INFO]: [Not Secure] <valzx_RV> https://music.youtube.com/playlist?list=PLg28gaFXO9sOS4qupUm34ugklKnjcvNun
 [00:56:33] [Server thread/INFO]: [Not Secure] <valzx_RV> execute in minecraft:overworld run tp @s -1384.65 146.00 -794.59 2966.57 3.52
+[01:05:09] [Server thread/INFO]: Villager class_1646['Shawnna'/15202, l='ServerLevel[world]', x=-1386.30, y=123.00, z=-724.70] died, message: 'Shawnna was squished too much'
+[01:05:09] [Server thread/INFO]: Named entity class_1646['Shawnna'/15202, l='ServerLevel[world]', x=-1386.30, y=123.00, z=-724.70] died: Shawnna was squished too much
+[01:10:12] [Server thread/WARN]: Thexperson2 moved too quickly! -17.27425147412623,-1.83870238906961,6.47605208575942
+[01:11:28] [Server thread/INFO]: Villager class_1646['Sam'/15193, l='ServerLevel[world]', x=-1386.30, y=123.00, z=-724.70] died, message: 'Sam was squished too much'
+[01:11:28] [Server thread/INFO]: Named entity class_1646['Sam'/15193, l='ServerLevel[world]', x=-1386.30, y=123.00, z=-724.70] died: Sam was squished too much
