@@ -7128,6 +7128,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2025-05-12 01:39:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-05-11 23:39:16 +0000"
@@ -7194,6 +7200,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2025-05-12 01:39:17 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/orange_stool": {
     "criteria": {
       "has_wool": "2025-05-11 23:39:06 +0000"
@@ -7236,9 +7248,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2025-05-12 01:39:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/lime_sheet": {
     "criteria": {
       "has_lime_sheet": "2025-05-11 23:39:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2025-05-12 01:39:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2025-05-12 01:39:17 +0000"
     },
     "done": true
   },
@@ -7266,6 +7296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-12 01:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-05-11 23:39:16 +0000"
@@ -7287,6 +7323,12 @@
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_white_sheet": "2025-05-11 23:39:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-05-12 01:39:17 +0000"
     },
     "done": true
   },
@@ -7320,6 +7362,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2025-05-12 01:39:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/orange_sleeping_bag": {
     "criteria": {
       "has_orange_wool": "2025-05-11 23:39:06 +0000"
@@ -7338,9 +7386,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2025-05-12 01:39:17 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/cyan_tall_stool": {
     "criteria": {
       "has_wool": "2025-05-11 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2025-05-12 01:39:17 +0000"
     },
     "done": true
   },
@@ -7350,9 +7410,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2025-05-12 01:39:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cyan_cushion": {
     "criteria": {
       "has_cyan_cushion": "2025-05-11 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-12 01:38:31 +0000"
     },
     "done": true
   },
@@ -7428,9 +7500,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2025-05-12 01:39:17 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/red_tall_stool": {
     "criteria": {
       "has_wool": "2025-05-11 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2025-05-12 01:39:17 +0000"
     },
     "done": true
   },
@@ -7512,6 +7596,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2025-05-12 01:39:17 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_sofa": {
     "criteria": {
       "has_wool": "2025-05-11 23:39:02 +0000"
@@ -7533,6 +7623,12 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-05-11 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2025-05-12 01:39:17 +0000"
     },
     "done": true
   },
@@ -7623,6 +7719,12 @@
   "handcrafted:recipes/misc/black_cushion": {
     "criteria": {
       "has_black_cushion": "2025-05-11 23:39:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2025-05-12 01:39:17 +0000"
     },
     "done": true
   },
