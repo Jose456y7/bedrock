@@ -12,6 +12,7 @@
       "minecraft:deep_ocean": "2025-05-09 01:29:48 +0000",
       "minecraft:lush_caves": "2025-05-02 01:03:08 +0000",
       "minecraft:jungle": "2025-05-01 21:25:41 +0000",
+      "minecraft:ocean": "2025-05-12 01:34:58 +0000",
       "minecraft:cherry_grove": "2025-05-02 04:56:16 +0000",
       "minecraft:birch_forest": "2025-05-01 20:38:10 +0000",
       "minecraft:bamboo_jungle": "2025-05-01 21:24:51 +0000",
@@ -4246,6 +4247,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_manor": "2025-05-04 03:48:22 +0000",
+      "pillager_outpost": "2025-05-12 01:32:03 +0000",
       "illager_camp": "2025-05-07 02:20:31 +0000"
     },
     "done": false
@@ -5319,6 +5321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-05-12 01:32:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_shelf": {
     "criteria": {
       "has_birch_shelf": "2025-05-12 01:22:38 +0000"
@@ -5589,6 +5597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-12 01:32:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-05-12 00:22:05 +0000"
@@ -5682,6 +5696,12 @@
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2025-05-12 01:22:38 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-05-12 01:32:03 +0000"
     },
     "done": true
   },
